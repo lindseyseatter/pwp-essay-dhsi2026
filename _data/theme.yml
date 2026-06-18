@@ -17,13 +17,10 @@
 # - External URL: https://example.com/image.jpg
 # - Collection objectid: demo_001
 #
-image-style: full-image                # full-image, half-image, or no-image
-featured-image: https://www.gutenberg.org/cache/epub/409/pg409.cover.medium.jpg
-featured-image-credit: "This is a cover of the Poems on various subjects, religious
-  and moral by Wheatley, Phillis, 1753-1784 as extracted from Project Gutenberg; it
-  can be found here: https://www.gutenberg.org/ebooks/409"
-featured-image-alt-text: "Cover image of Poems on various subjects, religious and
-  moral"                                                                           # Add alt text for accessibility
+image-style: half-image                # full-image, half-image, or no-image
+featured-image: https://picturingblackhistory.org/wp-content/uploads/2024/11/517443476-scaled.jpg
+featured-image-credit: "Picturing Black History, Allison Lange"
+featured-image-alt-text:                                                           # Add alt text for accessibility
 
 
 # NAVIGATION FEATURES
@@ -47,7 +44,7 @@ show-section-nav: true
 #          gregynog, ashendene, custom
 # ────────────────────────────────────────────────────────────────────────
 
-color-theme: default
+color-theme: aldine
 
 #### BUILT-IN THEMES (printing-history references)
 # idaho     — USDA, 1958 Douglas-fir cloth, gold stamp · dark green navbar · Spectral

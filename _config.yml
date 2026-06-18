@@ -49,35 +49,33 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # These fields control what appears on your homepage cover/title page
 #
 # title: Main title displayed prominently on the cover page (required)
-title: Poems on various subjects, religious and moral
+title: Phillis Wheatley Peters Digital Edition
 #
 # author: Appears as "by [Author Name]" beneath the title on cover page (optional)
 # - If provided, this displays instead of the tagline
 # - Leave blank to show tagline instead
 # - You can use HTML to add line breaks or additional attribution:
 #   author: "Author Name<br>Edited by Editor Name<br>Translated by Translator Name"
-author: Wheatley, Phillis, 1753-1784
+author: 
 #
 # tagline: A subtitle/tagline that appears beneath the title (optional)
 # - Only displays if "author" field is empty
 # - Use for descriptive subtitle or project tagline
 # - Can also use HTML for multi-line display:
 #   tagline: "A Digital Edition<br>Published 2024"
-tagline: Essay in the front, CollectionBuilder in the back
+tagline: Kwantlen Polytechnic University ENGL 4300 Collaborative Project
 #
 # METADATA FIELDS (for search engines and social media):
 #
 # description: Longer description for search engines and social sharing (recommended)
 # - Appears in meta tags and search results
 # - Keep around 160 characters max for best display in search results
-description: "A digital edition of Poems on various subjects, religious and moral
-  by Wheatley, Phillis, 1753-1784, extracted from Project Gutenberg"
+description: "A digital edition of Phillis Wheatley Peters's poetry, collaboratively edited by Kwantlen Polytechnic University ENGL 4300 students and Dr. Lindsey Seatter" 
 #
 # keywords: Short list of subjects separated by semicolons, for rich markup metadata
-keywords: digital humanities; multimodal essays; lib-static
-#
+keywords: phillis wheatley peters; poetry; digital edition; Romanticism; digital humanities; public humanities
 # exhibit-creator: Creator of the digital collection for meta tags (your name or GitHub username)
-exhibit-creator: dcnb
+exhibit-creator: lindseyseatter
 
 ##########
 # COLLECTION SETTINGS
