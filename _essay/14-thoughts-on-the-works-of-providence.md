@@ -1,5 +1,5 @@
 ---
-title: THOUGHTS ON THE WORKS OF PROVIDENCE.
+title: Thoughts On The Works Of Providence
 order: 15
 ---
 ## THOUGHTS ON THE WORKS OF PROVIDENCE.

@@ -1,8 +1,8 @@
 ---
-title: TO THE PUBLIC.
+title: To The Publick
 order: 2
 ---
-## TO THE PUBLIC.
+## TO THE PUBLICK.
 
 AS it has been repeatedly suggested to the Publisher, by Persons, who have
       seen the Manuscript, that Numbers would be ready to suspect they were not

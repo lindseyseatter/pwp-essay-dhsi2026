@@ -1,5 +1,5 @@
 ---
-title: AN ANSWER TO THE REBUS, BY THE AUTHOR OF THESE POEMS.
+title: An Answer To Rebus
 order: 42
 ---
 ## AN ANSWER TO THE REBUS, BY THE AUTHOR OF THESE POEMS.

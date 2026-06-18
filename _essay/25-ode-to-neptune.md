@@ -1,5 +1,5 @@
 ---
-title: O D E T O N E P T U N E.
+title: Ode To Neptune
 order: 26
 ---
 ## O D E  T O  N E P T U N E.

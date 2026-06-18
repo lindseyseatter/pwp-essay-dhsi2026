@@ -1,5 +1,5 @@
 ---
-title: TO HIS HONOUR THE LIEUTENANT-GOVERNOR, ON THE DEATH OF HIS LADY. MARCH 24, 1773.
+title: To His Honour The Lieutenant-Governor, On The Death Of His Lady
 order: 39
 ---
 ## TO HIS HONOUR THE LIEUTENANT-GOVERNOR, ON THE DEATH OF HIS LADY. MARCH 24,

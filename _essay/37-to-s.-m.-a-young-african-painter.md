@@ -1,5 +1,5 @@
 ---
-title: TO S. M. A YOUNG AFRICAN PAINTER, ON SEEING HIS WORKS.
+title: To S.M. A Young African Painter
 order: 38
 ---
 ## TO S. M. A YOUNG AFRICAN PAINTER, ON SEEING HIS WORKS.

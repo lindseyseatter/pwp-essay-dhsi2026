@@ -1,5 +1,5 @@
 ---
-title: ON THE DEATH OF DR. SAMUEL MARSHALL. 1771.
+title: On The Death Of Dr. Samuel Marshall
 order: 31
 ---
 ## ON THE DEATH OF DR. SAMUEL MARSHALL. 1771.

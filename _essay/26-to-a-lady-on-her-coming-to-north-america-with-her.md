@@ -1,5 +1,5 @@
 ---
-title: TO A LADY ON HER COMING TO NORTH-AMERICA WITH HER SON, FOR THE RECOVERY OF HER HEALTH.
+title: To A Lady On Her Coming To North-America With Her Son, For The Recovery Of Her Health
 order: 27
 ---
 ## TO A LADY ON HER COMING TO NORTH-AMERICA WITH HER SON, FOR THE RECOVERY OF

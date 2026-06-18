@@ -1,5 +1,5 @@
 ---
-title: TO THE HONOURABLE T. H. ESQ; ON THE DEATH OF HIS DAUGHTER.
+title: To The Honourable T.H. Esq; On The Death Of His Daughter
 order: 36
 ---
 ## TO THE HONOURABLE T. H. ESQ; ON THE DEATH OF HIS DAUGHTER.

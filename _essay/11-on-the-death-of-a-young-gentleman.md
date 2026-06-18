@@ -1,5 +1,5 @@
 ---
-title: ON THE DEATH OF A YOUNG GENTLEMAN.
+title: On The Death Of A Young Gentleman.
 order: 12
 ---
 ## ON THE DEATH OF A YOUNG GENTLEMAN.

@@ -1,5 +1,5 @@
 ---
-title: TO THE KING’S MOST EXCELLENT MAJESTY. 1768.
+title: To The King's Most Excellent Majesty
 order: 7
 ---
 ## TO THE KING’S MOST EXCELLENT MAJESTY. 1768.

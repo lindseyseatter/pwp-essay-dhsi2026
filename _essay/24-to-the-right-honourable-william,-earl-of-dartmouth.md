@@ -1,5 +1,5 @@
 ---
-title: TO THE RIGHT HONOURABLE WILLIAM, EARL OF DARTMOUTH
+title: To The Right Honourable William, Earl of Dartmouth
 order: 25
 ---
 ## TO THE RIGHT HONOURABLE WILLIAM, EARL OF DARTMOUTH

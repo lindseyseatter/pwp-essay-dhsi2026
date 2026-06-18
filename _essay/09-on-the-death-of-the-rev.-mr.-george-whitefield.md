@@ -1,5 +1,5 @@
 ---
-title: ON THE DEATH OF THE REV. MR. GEORGE WHITEFIELD. 1770.
+title: On The Death Of The Rev. Mr. George Whitefield
 order: 10
 ---
 ## ON THE DEATH OF THE REV. MR. GEORGE WHITEFIELD. 1770.

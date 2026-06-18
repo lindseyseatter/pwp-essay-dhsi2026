@@ -1,5 +1,5 @@
 ---
-title: G O L I A T H O F G A T H.
+title: Goliath of Gath
 order: 14
 ---
 ## G O L I A T H  O F  G A T H.

@@ -1,5 +1,5 @@
 ---
-title: ON THE DEATH OF J. C. AN INFANT.
+title: On The Death Of J.C. An Infant
 order: 34
 ---
 ## ON THE DEATH OF J. C. AN INFANT.

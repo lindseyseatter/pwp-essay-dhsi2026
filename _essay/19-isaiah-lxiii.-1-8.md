@@ -1,8 +1,8 @@
 ---
-title: ISAIAH lxiii. 1-8.
+title: Isaiah LXIII. 1-8.
 order: 20
 ---
-## ISAIAH lxiii. 1-8.
+## ISAIAH LXIII. 1-8.
 
 <pre>
 SAY, heav’nly muse, what king or mighty God,

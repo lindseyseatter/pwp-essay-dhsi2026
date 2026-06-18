@@ -1,5 +1,5 @@
 ---
-title: A REBUS, BY I. B.
+title: A Rebus
 order: 41
 ---
 ## A REBUS, BY I. B.

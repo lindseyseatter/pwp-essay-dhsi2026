@@ -1,5 +1,5 @@
 ---
-title: O N V I R T U E.
+title: On Virtue
 order: 5
 ---
 ## O N  V I R T U E.
