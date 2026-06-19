@@ -1,11 +1,18 @@
 display_name,stub,dropdown_parent
-About CB-Essay,/about.html,
-Search,/search/,
-Print & PDF,/print/,
-Collection,
-Browse,/browse.html,Collection
-Subjects,/subjects.html,Collection
-Locations,/locations.html,Collection
-Map,/map.html,Collection
-Timeline,/timeline.html,Collection
-Data,/data.html,Collection
+About Edition
+Project Team,/about.html,About Edition
+Pedagogical Statement,,About Edition
+Contextualize Edition
+Introduction,,Contextualize Edition
+Appendix A,,Contextualize Edition
+Appendix B,,Contextualize Edition
+Explore Edition,
+Browse,/browse.html,Explore Edition
+Subjects,/subjects.html,Explore Edition
+Locations,/locations.html,Explore Edition
+Map,/map.html,Explore Edition
+Timeline,/timeline.html,Explore Edition
+Search Edition,/search/,
+Export Edition
+Data,/data.html,Export Edition
+Print & PDF,/print/,Export Edition
