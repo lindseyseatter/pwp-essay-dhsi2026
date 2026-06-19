@@ -1,5 +1,5 @@
 ---
-title: To A Clergyman On The Death Of His Lady
+title: To A Clergyman On The Death Of His Lady.
 order: 17
 ---
 ## TO A CLERGYMAN ON THE DEATH OF HIS LADY.

@@ -1,5 +1,5 @@
 ---
-title: An Hymn To Humanity
+title: An Hymn To Humanity. To S.P.G. Esq;
 order: 35
 ---
 ## AN  H Y M N  TO  H U M A N I T Y.    TO

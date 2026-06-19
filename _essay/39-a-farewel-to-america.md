@@ -1,5 +1,5 @@
 ---
-title: A Farewel To America
+title: A Farewel To America. To Mrs. S.W.
 order: 40
 ---
 ## A FAREWEL TO AMERICA. TO MRS. S. W.

@@ -1,5 +1,5 @@
 ---
-title: To The University of Cambridge, in New-England
+title: To The University of Cambridge, in New-England.
 order: 6
 ---
 ## TO THE UNIVERSITY OF CAMBRIDGE, IN NEW-ENGLAND.

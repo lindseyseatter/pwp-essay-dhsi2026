@@ -1,5 +1,5 @@
 ---
-title: To A Gentleman And Lady On The Death Of The Lady's Brother And Sister, And A Child Of The Name Of Avis, Aged One Year
+title: To A Gentleman And Lady On The Death Of The Lady's Brother And Sister, And A Child Of The Name Of Avis, Aged One Year.
 order: 30
 ---
 ## TO A GENTLEMAN AND LADY ON THE DEATH OF THE LADY’S BROTHER AND SISTER, AND

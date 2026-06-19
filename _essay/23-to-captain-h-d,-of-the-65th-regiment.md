@@ -1,5 +1,5 @@
 ---
-title: To Captain H——D, Of The 65th Regiment
+title: To Captain H——D, Of The 65th Regiment.
 order: 24
 ---
 ## TO CAPTAIN H———D, OF THE 65TH REGIMENT.

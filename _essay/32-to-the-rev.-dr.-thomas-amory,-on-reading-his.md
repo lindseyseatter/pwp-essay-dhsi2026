@@ -1,5 +1,5 @@
 ---
-title: To The Rev. Dr. Thomas Amory, On Reading His Sermons On Daily Devotion, In Which That Duty Is Recommended And Assisted
+title: To The Rev. Dr. Thomas Amory, On Reading His Sermons On Daily Devotion, In Which That Duty Is Recommended And Assisted. 
 order: 33
 ---
 ## TO THE REV. DR. THOMAS AMORY, ON READING HIS SERMONS ON DAILY DEVOTION, IN

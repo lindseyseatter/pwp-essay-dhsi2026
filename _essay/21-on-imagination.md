@@ -1,5 +1,5 @@
 ---
-title: On Imagination
+title: On Imagination.
 order: 22
 ---
 ## ON IMAGINATION.

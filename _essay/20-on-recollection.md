@@ -1,5 +1,5 @@
 ---
-title: On Recollection
+title: On Recollection.
 order: 21
 ---
 ## ON RECOLLECTION.

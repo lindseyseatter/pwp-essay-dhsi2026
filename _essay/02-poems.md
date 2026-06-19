@@ -1,5 +1,5 @@
 ---
-title: POEMS ON VARIOUS SUBJECTS
+title: POEMS ON VARIOUS SUBJECTS.
 order: 3
 ---
 # P O E M S

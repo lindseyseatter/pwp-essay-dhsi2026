@@ -1,10 +1,10 @@
 ---
-title: To Maecenas
+title: To Maecenas.
 order: 4
 ---
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
-
+## To MAECENAS.
 MAECENAS, you, beneath the myrtle shade,
 <br>Read o’er what poets sung, and shepherds play’d.
 <br>What felt those poets but you feel the same?

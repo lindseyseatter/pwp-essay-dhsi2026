@@ -1,5 +1,5 @@
 ---
-title: Preface
+title: Preface.
 order: 1
 ---
 ## PREFACE.

@@ -1,5 +1,5 @@
 ---
-title: Niobe In Distress For Her Children Slain By Apollo
+title: Niobe In Distress For Her Children Slain By Apollo, From Ovid's Metamorphoses, Book VI And From A View Of The Painting of Mr. Richard Wilson.
 order: 37
 ---
 ## NIOBE IN DISTRESS FOR HER CHILDREN SLAIN BY APOLLO, FROM OVID’S

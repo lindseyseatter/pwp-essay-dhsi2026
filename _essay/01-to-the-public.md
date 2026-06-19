@@ -1,5 +1,5 @@
 ---
-title: To The Publick
+title: To The Publick.
 order: 2
 ---
 ## TO THE PUBLICK.

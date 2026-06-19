@@ -1,5 +1,5 @@
 ---
-title: On The Death Of The Rev. Dr. Sewell
+title: On The Death Of The Rev. Dr. Sewell. 1769.
 order: 9
 ---
 ## ON THE DEATH OF THE REV. DR. SEWELL, 1769.

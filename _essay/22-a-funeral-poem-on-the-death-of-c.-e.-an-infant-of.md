@@ -1,5 +1,5 @@
 ---
-title: A Funeral Poem On The Death Of C.E. An Infant Of Twelve Months
+title: A Funeral Poem On The Death Of C.E. An Infant Of Twelve Months.
 order: 23
 ---
 ## A FUNERAL POEM ON THE DEATH OF C. E. AN INFANT OF TWELVE MONTHS.

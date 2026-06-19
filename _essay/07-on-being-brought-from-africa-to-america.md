@@ -1,5 +1,5 @@
 ---
-title: On Being Brought From Africa To America
+title: On Being Brought From Africa To America.
 order: 8
 ---
 ## ON BEING BROUGHT FROM AFRICA TO AMERICA.

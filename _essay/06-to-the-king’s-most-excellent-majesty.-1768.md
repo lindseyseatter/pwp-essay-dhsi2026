@@ -1,8 +1,7 @@
 ---
-title: To The King's Most Excellent Majesty
+title: To The King's Most Excellent Majesty. 1768.
 order: 7
 ---
-## TO THE KING’S MOST EXCELLENT MAJESTY. 1768.
 
 <pre>
 YOUR subjects hope, dread Sire—

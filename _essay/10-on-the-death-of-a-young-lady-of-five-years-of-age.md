@@ -1,5 +1,5 @@
 ---
-title: On The Death Of A Young Lady Of Five Years Of Age
+title: On The Death Of A Young Lady Of Five Years Of Age.
 order: 11
 ---
 ## ON THE DEATH OF A YOUNG LADY OF FIVE YEARS OF AGE.

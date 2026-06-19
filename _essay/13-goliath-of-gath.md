@@ -1,5 +1,5 @@
 ---
-title: Goliath of Gath
+title: Goliath of Gath. 1 Sam. Chap. xvii.
 order: 14
 ---
 ## G O L I A T H  O F  G A T H.

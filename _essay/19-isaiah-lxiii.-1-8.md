@@ -1,5 +1,5 @@
 ---
-title: Isaiah LXIII. 1-8.
+title: Isaiah lxiii. 1-8.
 order: 20
 ---
 ## ISAIAH LXIII. 1-8.

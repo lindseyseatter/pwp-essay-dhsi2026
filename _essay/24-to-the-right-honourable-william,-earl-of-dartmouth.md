@@ -1,5 +1,5 @@
 ---
-title: To The Right Honourable William, Earl of Dartmouth
+title: To The Right Honourable William, Earl of Dartmouth, His Majesty's Principal Secretary of State For North America, &c.
 order: 25
 ---
 ## TO THE RIGHT HONOURABLE WILLIAM, EARL OF DARTMOUTH
