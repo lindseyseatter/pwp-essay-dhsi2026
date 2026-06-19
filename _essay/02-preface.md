@@ -11,3 +11,6 @@ As her Attempts in Poetry are now sent into the World, it is hoped the Critic wi
 As to the Disadvantages she has laboured under, with Regard to Learning, nothing needs to be offered, as her Master’s Letter in the following Page will sufficiently show the Difficulties in this Respect she had to encounter.
 
 With all their Imperfections, the Poems are now humbly submitted to the Perusal of the Public.
+
+
+---

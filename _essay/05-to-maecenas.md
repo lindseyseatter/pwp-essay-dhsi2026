@@ -1,6 +1,7 @@
 ---
 title: To Maecenas.
 order: 6
+byline: Dr. Lindsey Seatter
 ---
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
@@ -67,3 +68,6 @@ MAECENAS, you, beneath the myrtle shade,
 <br>So long thy praise shal’ make Parnassus ring:
 <br>Then grant, Maecenas, thy paternal rays,
 <br>Hear me propitious, and defend my lays.
+
+
+---

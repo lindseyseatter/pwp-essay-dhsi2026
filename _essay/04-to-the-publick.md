@@ -19,7 +19,7 @@ The Hon. ANDREW OLIVER, Lieutenant-Governor.
   The Hon. James Bowdoin,   | The Rev. Samuel Cooper, D. D.
   John Hancock, Esq;        | The Rev. Mr. Saumel Mather,
   Joseph Green, Esq;        | The Rev. Mr. John Moorhead,
-  Richard Carey, Esq;       | Mr. John Wheat ey, her Master.
+  Richard Carey, Esq;       | Mr. John Wheatley, her Master.
 
 N. B.  The original Attestation, signed by the above Gentlemen, may be seen by applying to Archibald Bell, Bookseller, No. 8, Aldgate-Street.
 
