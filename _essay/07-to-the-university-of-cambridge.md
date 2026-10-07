@@ -6,7 +6,6 @@ byline: Student B
 ## Critical Introduction
 
 ## To the University of CAMBRIDGE, in NEW-ENGLAND.
-
 <br>WHILE an intrinsic ardor prompts to write,
 <br>The muses promise to assist my pen;
 <br>’Twas not long since I left my native shore
