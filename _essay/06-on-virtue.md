@@ -5,8 +5,7 @@ byline: Student A
 ---
 ## Critical Introduction
 
-## On Virtue
-
+## On Virtue.
 <br>O Thou bright jewel in my aim I strive
 <br>To comprehend thee.  Thine own words declare
 <br>Wisdom is higher than a fool can reach.
