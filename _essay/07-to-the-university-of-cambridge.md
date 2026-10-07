@@ -1,10 +1,44 @@
 ---
 title: To The University of Cambridge, in New-England.
 order: 8
+byline: Student B
 ---
-To The University of Cambridge, In New-England.
+## Critical Introduction
 
-WHILE an intrinsic ardor prompts to write, The muses promise to assist my pen; ’Twas not long since I left my native shore The land of errors, and Egyptian gloom: Father of mercy, ’twas thy gracious hand Brought me in safety from those dark abodes. Students, to you ’tis giv’n to scan the heights Above, to traverse the ethereal space, And mark the systems of revolving worlds. Still more, ye sons of science ye receive The blissful news by messengers from heav’n, How Jesus’ blood for your redemption flows. See him with hands out-stretcht upon the cross; Immense compassion in his bosom glows; He hears revilers, nor resents their scorn: What matchless mercy in the Son of God! When the whole human race by sin had fall’n, He deign’d to die that they might rise again, And share with him in the sublimest skies, Life without death, and glory without end. Improve your privileges while they stay, Ye pupils, and each hour redeem, that bears Or good or bad report of you to heav’n. Let sin, that baneful evil to the soul, By you be shun’d, nor once remit your guard; Suppress the deadly serpent in its egg. Ye blooming plants of human race divine, An Ethiop tells you ’tis your greatest foe; Its transient sweetness turns to endless pain, And in immense perdition sinks the soul.
+## To the University of CAMBRIDGE, in NEW-ENGLAND.
+
+<br>WHILE an intrinsic ardor prompts to write,
+<br>The muses promise to assist my pen;
+<br>’Twas not long since I left my native shore
+<br>The land of errors, and *Egyptian* gloom:
+<br>Father of mercy, ’twas thy gracious hand
+<br>Brought me in safety from those dark abodes.
+
+<br>Students, to you ’tis giv’n to scan the heights
+<br>Above, to traverse the ethereal space,
+<br>And mark the systems of revolving worlds.
+<br>Still more, ye sons of science ye receive
+<br>The blissful news by messengers from heav’n,
+<br>How *Jesus*’ blood for your redemption flows.
+<br>See him with hands out-stretcht upon the cross;
+<br>Immense compassion in his bosom glows;
+<br>He hears revilers, nor resents their scorn:
+<br>What matchless mercy in the Son of God!
+<br>When the whole human race by sin had fall’n,
+<br>He deign’d to die that they might rise again,
+<br>And share with him in the sublimest skies,
+<br>Life without death, and glory without end.
+
+<br>Improve your privileges while they stay,
+<br>Ye pupils, and each hour redeem, that bears
+<br>Or good or bad report of you to heav’n.
+<br>Let sin, that baneful evil to the soul,
+<br>By you be shun’d, nor once remit your guard;
+<br>Suppress the deadly serpent in its egg.
+<br>Ye blooming plants of human race divine,
+<br>An *Ethiop* tells you ’tis your greatest foe;
+<br>Its transient sweetness turns to endless pain,
+<br>And in immense perdition sinks the soul.
 
 
 ---

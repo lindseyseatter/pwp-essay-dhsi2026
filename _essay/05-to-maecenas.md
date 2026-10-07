@@ -3,8 +3,8 @@ title: To Maecenas.
 order: 6
 byline: Dr. Lindsey Seatter
 ---
-{% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
+## Critical Introduction
+
 ## To MAECENAS.
 MAECENAS, you, beneath the myrtle shade,
 <br>Read o’er what poets sung, and shepherds play’d.
@@ -69,5 +69,6 @@ MAECENAS, you, beneath the myrtle shade,
 <br>Then grant, Maecenas, thy paternal rays,
 <br>Hear me propitious, and defend my lays.
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---
