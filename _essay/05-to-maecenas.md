@@ -1,10 +1,7 @@
 ---
 title: To Maecenas.
-order: 6
-byline: Dr. Lindsey Seatter
+order: 6.1
 ---
-## Critical Introduction
-
 ## To MAECENAS.
 MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
 <br>Read o’er what poets sung, and shepherds play’d.

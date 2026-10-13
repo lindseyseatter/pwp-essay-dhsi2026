@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Project
 layout: about
 permalink: /about.html
 credits: true
@@ -7,94 +7,54 @@ credits: true
 text_search: true
 ---
 
-## About CB-Essay
+Below is a list of the ENGL 4300 (Fall 2026) participants who collaboratively assembled this edition. Each student has included their favourite classroom experience or memory below their name. To read more about Dr. Seatter's pedagogical approach read the "Pedagogical Statement" page.
 
-**CB-Essay** combines long-form essay writing with digital collection features, enabling you to create multimodal scholarly narratives that seamlessly integrate primary sources, archival materials, and multimedia items directly into your writing.
+Instructor: Dr. Lindsey Seatter
 
-Built on [CollectionBuilder](https://collectionbuilder.github.io/), CB-Essay extends the CollectionBuilder-CSV framework to support essay and monograph publishing alongside traditional digital collection capabilities. 
+Students: _listed in alphabetical order_
 
-{% include feature/alert.html color="info" text="Have a question? Check out our [docs](https://collectionbuilder.github.io/cb-essay/docs.html)." %}
+-Alzahra Fadhel
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-### What Makes CB-Essay Different?
+-Anoop Dosanjh
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-Traditional digital publishing tools treat essays and collections as separate entities. CB-Essay unifies them, allowing you to:
+-Cadence Davies
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-- Write in **simple Markdown** with specialized features for scholarly work
-- **Reference collection items** using simple includes
-- Create **asides and margin notes** that link to primary sources
-- Build **interactive timelines, maps, and visualizations** from your metadata
-- Publish beautiful, accessible sites with **zero JavaScript complexity**
+-Kathryn Davidson
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-### Perfect For
+-Max Banerjee
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-- **Digital humanities projects** and digital editions
-- **Annotated texts** with primary source integration
-- **Scholarly essays** that incorporate archival materials
-- **Multimodal monographs** combining narrative and collection items
-- **Publishing public domain texts** with scholarly apparatus
+-Megan Moti
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-### Key Features
+-Myra Jamal
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-**Essay Writing:**
-- Sequential essay navigation with prev/next buttons
-- Flexible themes: traditional essay or book-style monograph
-- Support for long-form scholarship with chapter-like organization
+-Nareka Brown
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-**CollectionBuilder Integration:**
-- All standard CB-CSV features: Browse, Map, Timeline, Subjects, Data downloads
-- Seamless integration of collection items within essays
-- Dual-collection workflow: essays + metadata-driven object pages
+-Percy Gerard
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-**Essay-Specific Includes:**
-- **Blockquotes** - Styled quotations with attribution
-- **Asides** - Margin notes with optional collection items
-- **Image galleries** - Inline image displays
-- **Maps** - Embedded mini-maps with custom coordinates
-- **Section transitions** - Scrollama-powered visual breaks
+-Roma Mahrose
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-**Customizable Design:**
-- **8 built-in color themes** inspired by historical printing, designed for accessibility
-- **Coordinated typography** - each theme includes recommended font pairings
-- **Custom color support** - generate accessible palettes from any hex color
-- **Print/PDF output** - generate publication-ready PDFs with Paged.js
+-Rowan Crewe
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-**Bonus Feature: Project Gutenberg Extractor**
+-Siama Malik
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-Extract **60,000+ public domain books** from Project Gutenberg as ready-to-publish essays using our GitHub Action workflow. The script automatically downloads, cleans, and formats books into chapter files - perfect for creating annotated editions or scholarly apparatus.
+-Tarnjit Tagger
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-### Learn By Example
+-Thomas Ho
+{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
-This demo site is self-documenting. Each essay teaches you how to use CB-Essay while demonstrating the features:
-
-1. **Welcome to CB-Essay** - Overview and introduction
-2. **Getting Started** - Your first essay walkthrough
-3. **Essay Features** - All includes with copy-paste examples
-4. **Collection Integration** - Blending essays with collection items
-
-**Copy and replace:** Every feature you see can be copied directly into your own essays. Just replace the demo content with yours.
-
-### Example Projects
-
-- **[Frankenstein](https://dcnb.github.io/frankenstein/)** - Demonstrates monograph theme with chapter navigation
-- **[Wreck of the Deutschland](https://dcnb.github.io/wreck-of-the-deutschland/)** - Essay theme featuring poetry with visual transitions
-
-### Heavily Customized Examples
-
-- **[Sedimentation](https://cdil.lib.uidaho.edu/sedimentation/)** - Connected, sectioned essays on the history of Glen Canyon and the Glen Canyon Dam 
-- **[Tender Spaces](https://cdil.lib.uidaho.edu/tender-spaces/)** - A multi-lingual, multimodal essay on Gaëtane Buttigieg's life, art, and forced institutionalization in the 1970s.
-
-
-### Get Started
-
-Ready to create your essay?
-
-1. [Use this template](https://github.com/CollectionBuilder/cb-essay/generate)
-2. Check out the [Getting Started Guide](/essay/03-get-started.html)
-3. Explore the [documentation]({{ '/docs.html' | relative_url }})
-
-Questions? See our [documentation]({{ '/docs.html' | relative_url }}) or [open an issue](https://github.com/CollectionBuilder/cb-essay/issues).
-
----
 
 ### Credits & License
 

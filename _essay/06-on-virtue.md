@@ -1,10 +1,7 @@
 ---
 title: On Virtue.
 order: 7
-byline: Student A
 ---
-## Critical Introduction
-
 ## On Virtue.
 <br>O Thou bright jewel in my aim I strive
 <br>To comprehend thee.  Thine own words declare
