@@ -1,7 +1,10 @@
 ---
 title: To Maecenas.
-order: 6.1
+order: 6
+byline: Dr. Lindsey Seatter
 ---
+## Critical Introduction to "To Maecenas"
+
 ## To MAECENAS.
 MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
 <br>Read o’er what poets sung, and shepherds play’d.
@@ -44,7 +47,7 @@ MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html tex
 <br>The fault’ring music dies upon my tongue.
 
 <br>The happier Terence {% include essay/feature/aside.html
-   text="He was an African by birth." %} all the choir inspir’d,
+   text="Note from original printing: He was an African by birth." %} all the choir inspir’d,
 <br>His soul replenish’d, and his bosom fir’d;
 <br>But say, ye Muses, why this partial grace,
 <br>To one alone of Afric’s sable race;
