@@ -17,5 +17,6 @@ To the Right Honourable
 <br> *Boston, June 12,* 
 <br> 1773.
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

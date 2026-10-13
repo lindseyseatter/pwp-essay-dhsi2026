@@ -1,6 +1,7 @@
 ---
 title: To The University of Cambridge, in New-England.
 order: 8
+byline: XXX
 ---
 ## To the University of CAMBRIDGE, in NEW-ENGLAND.
 <br>WHILE an intrinsic ardor prompts to write,
@@ -36,5 +37,6 @@ order: 8
 <br>Its transient sweetness turns to endless pain,
 <br>And in immense perdition sinks the soul.
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

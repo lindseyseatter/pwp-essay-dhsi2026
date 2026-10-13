@@ -1,7 +1,7 @@
 ---
 title: To The King's Most Excellent Majesty. 1768.
 order: 9
-
+byline: XXX
 ---
 To The King's Most Excellent Majesty. 1768.
 
@@ -9,5 +9,6 @@ YOUR subjects hope, dread Sire— The crown upon your brows may flourish long, A
 
 The Repeal of the Stamp Act.
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---
