@@ -10,7 +10,9 @@ text_search: true
 Below is a list of the ENGL 4300 (Fall 2026) participants who collaboratively assembled this edition. Each student has included their favourite classroom experience or memory below their name. To read more about Dr. Seatter's pedagogical approach read the "Pedagogical Statement" page.
 
 Instructor: Dr. Lindsey Seatter
+
 Students: _listed in alphabetical order_
+
 Alzahra Fadhel
 {% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 Anoop Dosanjh
@@ -43,7 +45,8 @@ Thomas Ho
 ## Special Thanks
 A special thank you to Karen XXX for working on image permissions and Devin XXX for technical assistance...
 
-### Credits & License
+## Licensing & Attribution
+### Credits
 
 **CB-Essay** is developed by the [Center for Digital Inquiry and Learning (CDIL)](https://cdil.lib.uidaho.edu/) at the University of Idaho Library.
 
