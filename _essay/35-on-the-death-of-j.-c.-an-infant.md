@@ -1,6 +1,7 @@
 ---
 title: On The Death Of J.C. An Infant.
 order: 36
+byline: XXX
 ---
 ## ON THE DEATH OF J. C. AN INFANT.
 
@@ -49,5 +50,6 @@ NO more the flow’ry scenes of pleasure rife,
   Not at your bar must sov’reign Wisdom stand.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

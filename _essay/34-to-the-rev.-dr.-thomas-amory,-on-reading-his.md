@@ -1,6 +1,7 @@
 ---
 title: To The Rev. Dr. Thomas Amory, On Reading His Sermons On Daily Devotion, In Which That Duty Is Recommended And Assisted. 
 order: 35
+byline: XXX
 ---
 ## TO THE REV. DR. THOMAS AMORY, ON READING HIS SERMONS ON DAILY DEVOTION, IN
       WHICH THAT DUTY IS RECOMMENDED AND ASSISTED.
@@ -36,5 +37,6 @@ TO cultivate in ev’ry noble mind
   A nobler title, and superior name!
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

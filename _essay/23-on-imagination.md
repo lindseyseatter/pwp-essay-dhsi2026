@@ -1,6 +1,7 @@
 ---
 title: On Imagination.
 order: 24
+byline: XXX
 ---
 ## ON IMAGINATION.
 
@@ -61,5 +62,6 @@ THY various works, imperial queen, we see,
   Cease then, my song, cease the unequal lay.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

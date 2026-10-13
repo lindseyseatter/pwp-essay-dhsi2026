@@ -1,6 +1,7 @@
 ---
 title: An Hymn To Humanity. To S.P.G. Esq;
 order: 37
+byline: XXX
 ---
 ## AN  H Y M N  TO  H U M A N I T Y.    TO
       S. P. G. ESQ;
@@ -61,5 +62,6 @@ I.
       With ev’ry heav’nly Art.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

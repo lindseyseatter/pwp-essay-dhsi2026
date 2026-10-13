@@ -1,6 +1,7 @@
 ---
 title: To A Lady On The Death Of Three Relations.
 order: 18
+byline: XXX
 ---
 ## TO A LADY ON THE DEATH OF THREE RELATIONS.
 
@@ -38,5 +39,6 @@ WE trace the pow’r of Death from tomb to tomb,
   And to thy father tune the praise divine.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

@@ -1,6 +1,7 @@
 ---
 title: Niobe In Distress For Her Children Slain By Apollo, From Ovid's Metamorphoses, Book VI And From A View Of The Painting of Mr. Richard Wilson.
 order: 39
+byline: XXX
 ---
 ## NIOBE IN DISTRESS FOR HER CHILDREN SLAIN BY APOLLO, FROM OVID’S
       METAMORPHOSES, BOOK VI. AND FROM A VIEW OF THE PAINTING OF MR. RICHARD
@@ -237,5 +238,6 @@ APOLLO’s wrath to man the dreadful spring
   “But from the marble steal the silent tears.”
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

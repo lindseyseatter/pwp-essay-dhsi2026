@@ -1,6 +1,7 @@
 ---
 title: To S.M. A Young African Painter, On Seeing His Works. 
 order: 40
+byline: XXX
 ---
 ## TO S. M. A YOUNG AFRICAN PAINTER, ON SEEING HIS WORKS.
 
@@ -41,5 +42,6 @@ TO show the lab’ring bosom’s deep intent,
   Now seals the fair creation from my sight.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

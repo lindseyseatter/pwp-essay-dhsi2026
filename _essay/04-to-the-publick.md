@@ -25,5 +25,6 @@ N. B.  The original Attestation, signed by the above Gentlemen, may be seen by a
 
 *The Words “following Page,” allude to the Contents of the Manuscript Copy, which are wrote at the Back of the above Attestation.
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

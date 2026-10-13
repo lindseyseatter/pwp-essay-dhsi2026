@@ -1,6 +1,7 @@
 ---
 title: On The Death Of Dr. Samuel Marshall. 1771. 
 order: 33
+byline: XXX
 ---
 ## ON THE DEATH OF DR. SAMUEL MARSHALL. 1771.
 
@@ -35,5 +36,6 @@ THROUGH thickest glooms look back, immortal shade,
   The spouse, the sire, the universal friend.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

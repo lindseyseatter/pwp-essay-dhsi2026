@@ -1,6 +1,7 @@
 ---
 title: A Rebus, By I.B. 
 order: 43
+byline: XXX
 ---
 ## A REBUS, BY I. B.
 
@@ -33,5 +34,6 @@ I.
     To old Britannia’s fame.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

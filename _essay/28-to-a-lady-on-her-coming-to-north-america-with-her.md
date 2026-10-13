@@ -1,6 +1,7 @@
 ---
 title: To A Lady On Her Coming To North-America With Her Son, For The Recovery Of Her Health.
 order: 29
+byline: XXX
 ---
 ## TO A LADY ON HER COMING TO NORTH-AMERICA WITH HER SON, FOR THE RECOVERY OF
       HER HEALTH.
@@ -42,5 +43,6 @@ INDULGENT muse! my grov’ling mind inspire,
   With shouts of joy the country rings around.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

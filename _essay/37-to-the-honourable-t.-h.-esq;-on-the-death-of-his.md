@@ -1,6 +1,7 @@
 ---
 title: To The Honourable T.H. Esq; On The Death Of His Daughter.
 order: 38
+byline: XXX
 ---
 ## TO THE HONOURABLE T. H. ESQ; ON THE DEATH OF HIS DAUGHTER.
 
@@ -47,5 +48,6 @@ WHILE deep you mourn beneath the cypress-shade
   “Converse with heav’n, and taste the promis’d joy”
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

@@ -1,6 +1,7 @@
 ---
 title: Goliath of Gath. 1 Sam. Chap. xvii.
 order: 16
+byline: XXX
 ---
 ## G O L I A T H  O F  G A T H.
 
@@ -235,5 +236,6 @@ YE martial pow’rs, and all ye tuneful nine,
   “With me, nor quit my regal roof again.”
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

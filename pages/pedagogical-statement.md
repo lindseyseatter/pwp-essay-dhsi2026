@@ -6,3 +6,5 @@ credits: true
 # Edit the markdown in this file to describe your project
 text_search: true
 ---
+## Pedagogical Statement
+This is the pedagogical statement.

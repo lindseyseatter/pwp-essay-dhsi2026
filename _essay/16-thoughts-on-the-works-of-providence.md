@@ -1,6 +1,7 @@
 ---
 title: Thoughts On The Works Of Providence.
 order: 17
+byline: XXX
 ---
 ## THOUGHTS ON THE WORKS OF PROVIDENCE.
 
@@ -138,5 +139,6 @@ A R I S E, my soul, on wings enraptur’d, rise
   What songs should rise, how constant, how divine!
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

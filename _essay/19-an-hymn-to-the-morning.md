@@ -1,6 +1,7 @@
 ---
 title: An Hymn To The Morning.
 order: 20
+byline: XXX
 ---
 ## AN HYMN TO THE MORNING
 
@@ -27,5 +28,6 @@ ATTEND my lays, ye ever honour’d nine,
   And scarce begun, concludes th’ abortive song.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

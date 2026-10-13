@@ -1,6 +1,7 @@
 ---
 title: To A Gentleman On His Voyage To Great-Britain For The Recovery Of His Health.
 order: 34
+byline: XXX
 ---
 ## TO A GENTLEMAN ON HIS VOYAGE TO GREAT-BRITAIN FOR THE RECOVERY OF HIS
       HEALTH.
@@ -40,5 +41,6 @@ WHILE others chant of gay Elysian scenes,
   And own thy work, great Ruler of the skies!
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

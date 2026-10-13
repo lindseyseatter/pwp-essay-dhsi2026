@@ -1,6 +1,7 @@
 ---
 title: To Captain H——D, Of The 65th Regiment.
 order: 26
+byline: XXX
 ---
 ## TO CAPTAIN H———D, OF THE 65TH REGIMENT.
 
@@ -17,5 +18,6 @@ SAY, muse divine, can hostile scenes delight
   Britannia glories in no son like you.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

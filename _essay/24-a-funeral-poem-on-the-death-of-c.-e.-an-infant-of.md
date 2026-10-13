@@ -1,6 +1,7 @@
 ---
 title: A Funeral Poem On The Death Of C.E. An Infant Of Twelve Months.
 order: 25
+byline: XXX
 ---
 ## A FUNERAL POEM ON THE DEATH OF C. E. AN INFANT OF TWELVE MONTHS.
 
@@ -53,5 +54,6 @@ THROUGH airy roads he wings his instant flight
   In pleasures without measure, without end.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

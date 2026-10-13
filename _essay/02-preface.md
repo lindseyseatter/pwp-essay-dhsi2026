@@ -12,5 +12,6 @@ As to the Disadvantages she has laboured under, with Regard to Learning, nothing
 
 With all their Imperfections, the Poems are now humbly submitted to the Perusal of the Public.
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

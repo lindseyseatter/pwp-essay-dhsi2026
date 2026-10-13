@@ -1,6 +1,7 @@
 ---
 title: A Farewel To America. To Mrs. S.W.
 order: 42
+byline: XXX
 ---
 ## A FAREWEL TO AMERICA. TO MRS. S. W.
 
@@ -101,5 +102,6 @@ XI.
     Boston, May 7, 1773.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

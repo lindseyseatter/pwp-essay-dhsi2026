@@ -1,6 +1,7 @@
 ---
 title: On Virtue.
 order: 7
+byline: XXX
 ---
 ## On Virtue.
 <br>O Thou bright jewel in my aim I strive
@@ -26,5 +27,6 @@ order: 7
 <br>Teach me a better strain, a nobler lay,
 <br>O thou, enthron’d with Cherubs in the realms of day!
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

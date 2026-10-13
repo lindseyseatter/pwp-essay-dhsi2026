@@ -1,6 +1,7 @@
 ---
 title: To A Lady And Her Children, On The Death Of Her Son And Their Brother.
 order: 31
+byline: XXX
 ---
 ## TO A LADY AND HER CHILDREN, ON THE DEATH OF HER SON AND THEIR BROTHER.
 
@@ -37,5 +38,6 @@ O’ERWHELMING sorrow now demands my song:
   And to your God immortal anthems raise.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

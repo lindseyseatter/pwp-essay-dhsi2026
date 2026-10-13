@@ -1,6 +1,7 @@
 ---
 title: On Recollection.
 order: 23
+byline: XXX
 ---
 ## ON RECOLLECTION.
 
@@ -57,5 +58,6 @@ MNEME begin.  Inspire, ye sacred nine,
   Feels himself shelter’d from the wrath divine!
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

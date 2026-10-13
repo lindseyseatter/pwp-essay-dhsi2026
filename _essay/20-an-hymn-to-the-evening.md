@@ -1,6 +1,7 @@
 ---
 title: An Hymn To The Evening.
 order: 21
+byline: XXX
 ---
 ## AN HYMN TO THE EVENING.
 
@@ -25,5 +26,6 @@ SOON as the sun forsook the eastern main
   Then cease, my song, till fair Aurora rise.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Following Is A Copy Of A Letter Sent By The Author's Master To The Publisher.
+title: Attestation
 order: 4
 ---
 ## The following is a Copy of a LETTER sent by the Author’s Master to the Publisher.
@@ -14,5 +14,6 @@ JOHN WHEATLEY.
 
 Boston, Nov. 14, 1772.
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

@@ -1,6 +1,7 @@
 ---
 title: To The Right Honourable William, Earl of Dartmouth, His Majesty's Principal Secretary of State For North America, &c.
 order: 27
+byline: XXX
 ---
 ## TO THE RIGHT HONOURABLE WILLIAM, EARL OF DARTMOUTH
 
@@ -53,5 +54,6 @@ His Majesty’s Principal
   Where, like the prophet, thou shalt find thy God.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

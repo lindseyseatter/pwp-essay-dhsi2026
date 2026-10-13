@@ -1,6 +1,7 @@
 ---
-title: Isaiah lxiii. 1-8.
+title: Isaiah LXIII. 1-8.
 order: 22
+byline: XXX
 ---
 ## ISAIAH LXIII. 1-8.
 
@@ -37,5 +38,6 @@ SAY, heav’nly muse, what king or mighty God,
   Smiles at their arts, and all their force defies.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

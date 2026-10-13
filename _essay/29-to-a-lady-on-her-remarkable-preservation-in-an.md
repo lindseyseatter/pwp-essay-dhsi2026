@@ -1,6 +1,7 @@
 ---
 title: To A Lady On Her Remarkable Preservation In A Hurricane In North-Carolina.
 order: 30
+byline: XXX
 ---
 ## TO A LADY ON HER REMARKABLE PRESERVATION IN AN HURRICANE IN
       NORTH-CAROLINA.
@@ -40,5 +41,6 @@ THOUGH thou did’st hear the tempest from afar,
   And what the blessings of maternal care!
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

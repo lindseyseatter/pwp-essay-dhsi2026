@@ -4,6 +4,7 @@ order: 6
 byline: Dr. Lindsey Seatter
 ---
 ## Critical Introduction to "To Maecenas"
+This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
 
 ## To MAECENAS.
 MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
@@ -70,5 +71,5 @@ MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html tex
 <br>Hear me propitious, and defend my lays.
 
 {% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
+   objectid="pwp_08;pwp_09;pwp_10;pwp_11" %}
 ---

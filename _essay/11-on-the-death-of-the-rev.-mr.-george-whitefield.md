@@ -1,6 +1,7 @@
 ---
 title: On The Death Of The Rev. Mr. George Whitefield. 1770. 
 order: 12
+byline: XXX
 ---
 On The Death Of The Rev. Mr. George Whitefield. 1770. 
 
@@ -8,5 +9,6 @@ HAIL, happy saint, on thine immortal throne, Possest of glory, life, and bliss u
 
 The Countess of Huntingdon, to whom Mr. Whitefield was Chaplain.
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

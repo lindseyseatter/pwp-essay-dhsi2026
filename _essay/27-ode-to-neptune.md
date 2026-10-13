@@ -1,6 +1,7 @@
 ---
 title: Ode To Neptune. On Mrs W——'s Voyage to England. 
 order: 28
+byline: XXX
 ---
 ## O D E  T O  N E P T U N E.
 
@@ -37,5 +38,6 @@ On Mrs. W———‘s Voyage to England.
     Boston, October 12, 1772.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

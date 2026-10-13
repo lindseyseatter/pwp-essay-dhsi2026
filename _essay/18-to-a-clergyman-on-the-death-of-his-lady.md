@@ -1,6 +1,7 @@
 ---
 title: To A Clergyman On The Death Of His Lady.
 order: 19
+byline: XXX
 ---
 ## TO A CLERGYMAN ON THE DEATH OF HIS LADY.
 
@@ -50,5 +51,6 @@ WHERE contemplation finds her sacred spring,
   To dry thy tears how longs the heav’nly muse!
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---

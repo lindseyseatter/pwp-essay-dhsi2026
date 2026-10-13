@@ -1,6 +1,7 @@
 ---
 title: To His Honour The Lieutenant-Governor, On The Death Of His Lady. March 24, 1773. 
 order: 41
+byline: XXX
 ---
 ## TO HIS HONOUR THE LIEUTENANT-GOVERNOR, ON THE DEATH OF HIS LADY. MARCH 24,
       1773.
@@ -55,5 +56,6 @@ ALL-Conquering Death! by thy resistless pow’r,
   That fain thy soul to heav’nly scenes would raise.
 </pre>
 
-
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
 ---
