@@ -43,7 +43,7 @@ Thomas Ho
 {% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
 
 ## Special Thanks
-A special thank you to Karen XXX for working on image permissions and Devin XXX for technical assistance...
+A special thank you to Karen Meijer for liaising with the University of South Carolina regarding images permissions and Devin Becker for CB-Essay assistance, tech support, and general encouragement. 
 
 ## Licensing & Attribution
 ### Credits
