@@ -6,7 +6,7 @@ byline: Dr. Lindsey Seatter
 ## Critical Introduction
 
 ## To MAECENAS.
-MAECENAS, you, beneath the myrtle shade,
+MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
 <br>Read o’er what poets sung, and shepherds play’d.
 <br>What felt those poets but you feel the same?
 <br>Does not your soul possess the sacred flame?
