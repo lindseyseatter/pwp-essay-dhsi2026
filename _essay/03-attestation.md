@@ -1,5 +1,5 @@
 ---
-title: Attestation
+title: Attestation.
 order: 4
 ---
 ## The following is a Copy of a LETTER sent by the Author’s Master to the Publisher.

@@ -73,3 +73,5 @@ MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html tex
 {% include essay/feature/image-gallery.html
    objectid="pwp_08;pwp_09;pwp_10;pwp_11" %}
 ---
+
+### _For further information related to this poem, see Appendix A:XXX_
