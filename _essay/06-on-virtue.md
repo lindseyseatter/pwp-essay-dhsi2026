@@ -1,7 +1,7 @@
 ---
 title: On Virtue.
 order: 7
-byline: XXX
+byline: Roma
 ---
 ## On Virtue.
 <br>O Thou bright jewel in my aim I strive

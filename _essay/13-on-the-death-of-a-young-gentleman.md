@@ -1,7 +1,7 @@
 ---
 title: On The Death Of A Young Gentleman.
 order: 14
-byline: XXX
+byline: 
 ---
 On The Death Of A Young Gentleman.
 

@@ -1,7 +1,7 @@
 ---
 title: Ode To Neptune. On Mrs W——'s Voyage to England. 
 order: 28
-byline: XXX
+byline:
 ---
 ## O D E  T O  N E P T U N E.
 

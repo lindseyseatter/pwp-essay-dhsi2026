@@ -1,7 +1,7 @@
 ---
 title: To A Lady On The Death Of Three Relations.
 order: 18
-byline: XXX
+byline: 
 ---
 ## TO A LADY ON THE DEATH OF THREE RELATIONS.
 

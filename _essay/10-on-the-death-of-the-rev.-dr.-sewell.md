@@ -1,7 +1,7 @@
 ---
 title: On The Death Of The Rev. Dr. Sewell. 1769.
 order: 11
-byline: XXX
+byline:
 ---
 On The Death Of The Rev. Dr. Sewell. 1769.
 

@@ -1,7 +1,7 @@
 ---
 title: On The Death Of A Young Lady Of Five Years Of Age.
 order: 13
-byline: XXX
+byline: 
 ---
 On The Death Of A Young Lady Of Five Years Of Age.
 

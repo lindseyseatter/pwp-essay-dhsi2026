@@ -1,7 +1,7 @@
 ---
 title: To A Gentleman On His Voyage To Great-Britain For The Recovery Of His Health.
 order: 34
-byline: XXX
+byline:
 ---
 ## TO A GENTLEMAN ON HIS VOYAGE TO GREAT-BRITAIN FOR THE RECOVERY OF HIS
       HEALTH.

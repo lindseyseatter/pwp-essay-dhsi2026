@@ -1,7 +1,7 @@
 ---
 title: Thoughts On The Works Of Providence.
 order: 17
-byline: XXX
+byline: 
 ---
 ## THOUGHTS ON THE WORKS OF PROVIDENCE.
 

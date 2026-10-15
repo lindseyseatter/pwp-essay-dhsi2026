@@ -1,7 +1,7 @@
 ---
 title: A Funeral Poem On The Death Of C.E. An Infant Of Twelve Months.
 order: 25
-byline: XXX
+byline: 
 ---
 ## A FUNERAL POEM ON THE DEATH OF C. E. AN INFANT OF TWELVE MONTHS.
 

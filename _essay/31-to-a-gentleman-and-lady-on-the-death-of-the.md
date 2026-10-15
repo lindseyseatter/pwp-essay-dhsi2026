@@ -1,7 +1,7 @@
 ---
 title: To A Gentleman And Lady On The Death Of The Lady's Brother And Sister, And A Child Of The Name Of Avis, Aged One Year.
 order: 32
-byline: XXX
+byline:
 ---
 ## TO A GENTLEMAN AND LADY ON THE DEATH OF THE LADY’S BROTHER AND SISTER, AND
       A CHILD OF THE NAME OF AVIS, AGED ONE YEAR.

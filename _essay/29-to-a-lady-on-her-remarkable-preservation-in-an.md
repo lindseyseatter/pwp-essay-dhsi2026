@@ -1,7 +1,7 @@
 ---
 title: To A Lady On Her Remarkable Preservation In A Hurricane In North-Carolina.
 order: 30
-byline: XXX
+byline:
 ---
 ## TO A LADY ON HER REMARKABLE PRESERVATION IN AN HURRICANE IN
       NORTH-CAROLINA.

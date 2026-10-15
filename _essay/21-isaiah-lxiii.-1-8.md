@@ -1,7 +1,7 @@
 ---
 title: Isaiah LXIII. 1-8.
 order: 22
-byline: XXX
+byline: Cadence
 ---
 ## ISAIAH LXIII. 1-8.
 

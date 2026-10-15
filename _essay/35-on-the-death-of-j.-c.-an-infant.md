@@ -1,7 +1,7 @@
 ---
 title: On The Death Of J.C. An Infant.
 order: 36
-byline: XXX
+byline:
 ---
 ## ON THE DEATH OF J. C. AN INFANT.
 

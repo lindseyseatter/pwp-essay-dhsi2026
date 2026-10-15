@@ -1,7 +1,7 @@
 ---
 title: On The Death Of Dr. Samuel Marshall. 1771. 
 order: 33
-byline: XXX
+byline:
 ---
 ## ON THE DEATH OF DR. SAMUEL MARSHALL. 1771.
 

@@ -1,7 +1,7 @@
 ---
 title: A Rebus, By I.B. 
 order: 43
-byline: XXX
+byline:
 ---
 ## A REBUS, BY I. B.
 

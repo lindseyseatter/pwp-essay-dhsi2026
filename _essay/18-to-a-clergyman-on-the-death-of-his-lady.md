@@ -1,7 +1,7 @@
 ---
 title: To A Clergyman On The Death Of His Lady.
 order: 19
-byline: XXX
+byline: Tarnjit
 ---
 ## TO A CLERGYMAN ON THE DEATH OF HIS LADY.
 

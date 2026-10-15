@@ -1,7 +1,7 @@
 ---
 title: On The Death Of The Rev. Mr. George Whitefield. 1770. 
 order: 12
-byline: XXX
+byline: 
 ---
 On The Death Of The Rev. Mr. George Whitefield. 1770. 
 

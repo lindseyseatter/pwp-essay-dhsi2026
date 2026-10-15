@@ -1,7 +1,7 @@
 ---
 title: To Captain H——D, Of The 65th Regiment.
 order: 26
-byline: XXX
+byline:
 ---
 ## TO CAPTAIN H———D, OF THE 65TH REGIMENT.
 

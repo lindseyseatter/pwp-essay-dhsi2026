@@ -1,7 +1,7 @@
 ---
 title: An Answer To Rebus, By The Author Of These Poems. 
 order: 44
-byline: XXX
+byline:
 ---
 ## AN ANSWER TO THE REBUS, BY THE AUTHOR OF THESE POEMS.
 

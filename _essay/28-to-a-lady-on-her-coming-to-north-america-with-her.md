@@ -1,7 +1,7 @@
 ---
 title: To A Lady On Her Coming To North-America With Her Son, For The Recovery Of Her Health.
 order: 29
-byline: XXX
+byline:
 ---
 ## TO A LADY ON HER COMING TO NORTH-AMERICA WITH HER SON, FOR THE RECOVERY OF
       HER HEALTH.

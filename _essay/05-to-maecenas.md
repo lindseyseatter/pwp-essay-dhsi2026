@@ -1,7 +1,7 @@
 ---
 title: To Maecenas.
 order: 6
-byline: Dr. Lindsey Seatter
+byline: Nareka
 ---
 ## Critical Introduction to "To Maecenas"
 This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!

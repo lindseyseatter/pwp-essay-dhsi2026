@@ -1,7 +1,7 @@
 ---
 title: To A Lady On The Death Of Her Husband.
 order: 15
-byline: XXX
+byline: Myra
 ---
 To A Lady On The Death Of Her Husband.
 

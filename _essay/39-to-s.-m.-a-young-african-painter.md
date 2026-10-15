@@ -1,7 +1,7 @@
 ---
 title: To S.M. A Young African Painter, On Seeing His Works. 
 order: 40
-byline: XXX
+byline:
 ---
 ## TO S. M. A YOUNG AFRICAN PAINTER, ON SEEING HIS WORKS.
 

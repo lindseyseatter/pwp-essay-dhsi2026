@@ -1,7 +1,7 @@
 ---
 title: On Being Brought From Africa To America.
 order: 10
-byline: XXX
+byline: 
 ---
 On Being Brought From Africa To America.
 

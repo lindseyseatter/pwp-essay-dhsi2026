@@ -1,7 +1,7 @@
 ---
 title: To The Honourable T.H. Esq; On The Death Of His Daughter.
 order: 38
-byline: XXX
+byline:
 ---
 ## TO THE HONOURABLE T. H. ESQ; ON THE DEATH OF HIS DAUGHTER.
 

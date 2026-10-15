@@ -1,7 +1,7 @@
 ---
 title: To A Lady And Her Children, On The Death Of Her Son And Their Brother.
 order: 31
-byline: XXX
+byline:
 ---
 ## TO A LADY AND HER CHILDREN, ON THE DEATH OF HER SON AND THEIR BROTHER.
 
