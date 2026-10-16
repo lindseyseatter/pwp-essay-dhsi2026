@@ -1,7 +1,7 @@
 ---
 title: To Maecenas.
 order: 6
-byline: Nareka
+byline: Demo
 ---
 ## Critical Introduction to "To Maecenas"
 This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
@@ -73,6 +73,6 @@ MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html tex
 {% include essay/feature/image-gallery.html
    objectid="pwp_08;pwp_09;pwp_10;pwp_11" %}
 
-### _For further information related to this poem, see Appendix A:XXX_
+### _For further information related to this poem, see Appendix A: XXX_
 
 ---

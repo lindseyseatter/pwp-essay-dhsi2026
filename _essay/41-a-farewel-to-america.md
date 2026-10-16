@@ -1,7 +1,7 @@
 ---
 title: A Farewel To America. To Mrs. S.W.
 order: 42
-byline:
+byline: Thomas
 ---
 ## A FAREWEL TO AMERICA. TO MRS. S. W.
 
