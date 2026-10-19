@@ -73,6 +73,7 @@ MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html tex
 {% include essay/feature/image-gallery.html
    objectid="pwp_08;pwp_09;pwp_10;pwp_11" %}
 
-### _For further information related to this poem, see Appendix A: XXX_
+## Contextual Accompaniment to "To Maecenas"
+This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
 
 ---
