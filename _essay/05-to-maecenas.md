@@ -14,13 +14,6 @@ MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html tex
 <br>Their noble strains your equal genius shares
 <br>In softer language, and diviner airs.
 
-MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
-Read o’er what poets sung, and shepherds play’d.<br>
-What felt those poets but you feel the same?<br>
-Does not your soul possess the sacred flame?<br>
-Their noble strains your equal genius shares<br>
-In softer language, and diviner airs.<br>
-
 <br>While Homer paints, lo! circumfus’d in air,
 <br>Celestial Gods in mortal forms appear;
 <br>Swift as they move hear each recess rebound,
