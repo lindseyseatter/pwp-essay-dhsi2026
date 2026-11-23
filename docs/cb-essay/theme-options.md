@@ -9,6 +9,7 @@ Set these in `_data/theme.yml`:
 ```yaml
 show-contents-nav: true    # "Contents" button in navbar opens chapter list panel
 show-homepage-toc: true    # chapter table of contents on the homepage
+show-homepage-menu-button: false  # homepage banner button that opens the menu panel
 show-section-nav: false    # floating sidebar TOC built from H2s on each essay page
 ```
 
@@ -31,6 +32,16 @@ Controls whether a table of contents appears on the homepage beneath the banner.
 **`true`** — Homepage renders a chapter list with titles and optional bylines. The banner image also gains a "Contents ↓" button linking to it. Only displays when the site has more than one essay.
 
 **`false`** — Homepage shows only the banner image and "Read" button. Best for single essays or when you want the homepage to focus on the entry point rather than the full chapter list.
+
+---
+
+## `show-homepage-menu-button`
+
+Adds a "Menu" button to the homepage banner. It opens the same right-hand menu panel as the navbar's menu toggle.
+
+**`true`** — A "Menu" button appears in every homepage image style, in a row of small outline buttons beneath "Read" (beside "Contents" when `show-homepage-toc` is on). Single-essay sites always show this button.
+
+**`false`** — No button on multi-essay homepages (default).
 
 ---
 

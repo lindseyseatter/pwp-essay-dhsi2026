@@ -1,4 +1,5 @@
-{% unless site.data.theme.show-contents-nav %}
+{%- comment -%} Pass button=false to render only the panel (homepage supplies its own trigger). {%- endcomment -%}
+{% unless site.data.theme.show-contents-nav or include.button == false %}
 <button class="essay-nav-btn essay-nav-btn--menu" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Open navigation menu">
     <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
         <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
