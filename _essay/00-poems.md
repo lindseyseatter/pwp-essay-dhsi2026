@@ -4,5 +4,5 @@ order: 1
 ---
 
 {% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
+   objectid="pwp_00;pwp_01" %}
 ---
