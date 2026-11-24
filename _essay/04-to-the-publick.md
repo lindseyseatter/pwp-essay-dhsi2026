@@ -9,6 +9,7 @@ AS it has been repeatedly suggested to the Publisher, by Persons, who have seen 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WE whose Names are under-written, do assure the World, that the POEMS specified in the following Page,* were (as we verily believe) written by Phillis, a young Negro Girl, who was but a few Years since, brought an uncultivated Barbarian from *Africa*, and has ever since been, and now is, under the Disadvantage of serving as a Slave in a Family in this Town. She has been examined by some of the best Judges, and is thought qualified to write them.
 
 &nbsp;&nbsp;&nbsp;His Excellency THOMAS HUTCHINSON, *Governor*.
+
 &nbsp;&nbsp;&nbsp;The Hon. ANDREW OLIVER, *Lieutenant-Governor*.
 
   *The Hon.* Thomas Hubbard,  | *The Rev.* Charles Chauncey, *D. D.*
@@ -19,6 +20,7 @@ AS it has been repeatedly suggested to the Publisher, by Persons, who have seen 
   John Hancock, *Esq*;        | *The Rev. Mr.* Saumel Mather,
   Joseph Green, *Esq*;        | *The Rev. Mr.* John Moorhead,
   Richard Carey, *Esq*;       | *Mr.* John Wheatley, her Master.
+  
 
 N. B.  The original Attestation, signed by the above Gentlemen, may be seen by applying to *Archibald Bell*, Bookseller, No. 8, *Aldgate-Street*.
 
