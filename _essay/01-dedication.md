@@ -18,5 +18,5 @@ To the Right Honourable
 <br> 1773.
 
 {% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
+   objectid="pwp_02;pwp_03" %}
 ---
