@@ -147,7 +147,7 @@ The imagery of a “heav’nly shield” symbolizes spiritual protection, while 
     Boston, May 7, 1773.
 
 {% include essay/feature/image-gallery.html
-   objectid="pwp_18;pwp_19;pwp_20;pwp_21" %}
+   objectid="pwp_18;pwp_19;pwp_20" %}
 
 ## Contextual
   
