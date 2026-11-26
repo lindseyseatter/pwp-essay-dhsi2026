@@ -9,21 +9,21 @@ In To the University of Cambridge, in New-England, Phillis Wheatley, as an ensla
 Word count: 525
 
 ## To the University of CAMBRIDGE, in NEW-ENGLAND.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHILE an intrinsic ardor prompts to write,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHILE an intrinsic ardor prompts to write,{% include essay/feature/aside.html text=" Ardor: intence passion" %} 
 <br>The muses promise to assist my pen;
 <br>’Twas not long since I left my native shore
 <br>The land of errors, and Egyptian gloom:
-<br>Father of mercy, ’twas thy gracious hand 
+<br>Father of mercy, ’twas thy gracious hand {% include essay/feature/aside.html text="Father of mercy: Biblical refrence to God" %}  
 <br>Brought me in safety from those dark abodes.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students, to you ’tis giv’n to scan the heights 
 <br>Above, to traverse the ethereal space,
 <br>And mark the systems of revolving worlds.
 <br>Still more, ye sons of science ye receive 
-<br>The blissful news by messengers from heav’n,
+<br>The blissful news by messengers from heav’n,{% include essay/feature/aside.html text="messengers from heav'n refers to the professors at the university of Cambridge" %} 
 <br>How Jesus’ blood for your redemption flows.
 <br>See him with hands out-stretcht upon the cross;
-<br>Immense compassion in his bosom glows;
+<br>Immense compassion in his bosom glows;{% include essay/feature/aside.html text=" Biblical refence to God" %} 
 <br>He hears revilers, nor resents their scorn:
 <br>What matchless mercy in the Son of God!
 <br>When the whole human race by sin had fall’n,
@@ -37,7 +37,7 @@ Word count: 525
 <br>Let sin, that baneful evil to the soul,
 <br>By you be shun’d, nor once remit your guard;
 <br>Suppress the deadly serpent in its egg.
-<br>Ye blooming plants of human race divine,
+<br>Ye blooming plants of human race divine,{% include essay/feature/aside.html text="blooming plants refers to the students of Cambridge" %} 
 <br>An Ethiop tells you ’tis your greatest foe;
 <br>Its transient sweetness turns to endless pain,
 <br>And in immense perdition sinks the soul.
