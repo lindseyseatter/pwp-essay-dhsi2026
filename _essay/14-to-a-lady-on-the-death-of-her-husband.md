@@ -4,7 +4,6 @@ order: 15
 byline: Myra Jamal
 ---
 ## Critical Introduction to "To A Lady On The Death Of Her Husband"
-
 “To a Lady on the Death of Her Husband” is an elegy Philis Wheatley Peters wrote in Boston for Dr. Thomas Leonard who had passed away in 1771 at the age of twenty-seven. The poem was originally titled “To Mrs. Leonard, on the Death of her Husband”, but was changed in 1773 while Peters was compiling her book Poems on Various Subjects, Religious and Moral (Carretta 176). It was dedicated Thankfull Hubbard Leonard, the wife of Thomas Leonard, to help her through her grief after his passing (Carretta 176). Thankfull Leonard was a childhood friend and neighbor of the Wheatley family and attended the same church as Philis Wheatley Peters (Brooks, 11). Along with being elegy dedicated to an acquaintance, this introduction seeks to highlight how the components in this poem reflect the way Wheatley may have processed her own grief. 
 
 One of the ways Peters illustrates what the process of grief looks like to her is through the imagery in the poem. Peters writes how a mourner experiences grief after loss, with tears that “Pursue each other down the mourner's face” (Peters 22). But, points out that after letting themselves grieve they should “cease thy tears, bid ev'ry sigh depart” (Peters 23). This reveals that Peters believes a mourner should let themselves experience the sadness and despair that washes over them, and allow themselves to have a moment where they are in touch with their emotions, instead of suppressing them, but states that they should not become engulfed by their feelings. Peters reminds the reader that death is inevitable and nothing can save a person from the “dire dart” (Peters 9\) writing that not even “youth, nor science, nor the ties of love” (Peters 7\) can prevent death. The only thing someone has the power to do is prepare themselves for the same fate for when they eventually also “pass the vale of night” (Peters 29). In these lines Peters highlights that death is not discriminatory and everyone will fall victim to it at some point. She steers the reader towards acknowledging their own mortality and how they should change their focus from what is being taken from them, to what they can do with their lives before meeting the same fate. This demonstrates how Peters believes that loss, grief aside, can be used as a moment of reflection and work towards . After grieving and reflecting on loss, Peters turns to religious imagery to remind the reader that death is not as scary and terrible as they imagine. She illustrates that death can be a beautiful thing and a start to a new beginning. She describes a physical body as “the cold shell of his great soul” (Peters 25\) to remind the reader that in religious theology, the physical body is similar to an empty vessel and the true essence and character of a person is retained in the soul. She also uses the words shell, to illustrate a body as an enclosure where their true selves reside. She elaborates on this by writing that it is only after death that people will be able to part from this shell and begin their journey in a place that has “pleasures more refin’d, And better suited to th’immortal mind” (Wheatley 33-34) surpassing the happiness someone can experience in the physical world. These lines briefly touch on how Peters’ religious beliefs shape her understanding of loss and view the material world as having flaws and limitations which prevent people from reaching fulfillment, which is why she specifically points to how heaven is better suited for a soul not limited by a mortal body.
@@ -14,6 +13,8 @@ The imagery used in this poem highlights how Peters, herself, was able to find c
 Throughout the poem, Peters displays a deep understanding of loss and which is why she is able to establish a sense of empathy with the reader. She seems to draw on her own experiences in life, after having been kidnapped from her family and sold into slavery around eight years old, to illustrate how faith can be used to work through grievances and understand loss (Caretta, 176).  
 
 There is not much known about Peter's life before coming to America and she rarely wrote about her own experiences with slavery outright, because that was not something the majority of her readers would resonate with since they were mainly middle class white individuals. However, the theme of loss and death, as she mentions in this poem, is something that everyone regardless of race may have experienced, which is why she was able to communicate her experiences and understanding of the tragedies that took place throughout her life and maintain mainstream appeal. 
+
+Word count: 878
 
 ## To A Lady On The Death Of Her Husband.
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GRIM monarch! see, depriv’d of vital breath,
@@ -56,13 +57,13 @@ There is not much known about Peter's life before coming to America and she rare
    objectid="pwp_28;pwp_29" %} 
 
 ## Contextual Accompaniment to "To A Lady On The Death Of Her Husband"
-
 The widow that this poem was dedicated to, Thankful Hubbard Leonard, was a close family friend of the Wheatley family, and she was also the daughter of Thomas Hubbard. Thomas Hubbard was a prominent and wealthy individual in the community. He was a successful merchant and the treasurer of Harvard College (Brooks, 11). He was also a neighbour of the Wheatley family. It was because of this status that Thomas Hubbard was able to be one of the eighteen individuals that signed off on the attestation in Philis Wheatley Peters book Poems on Various Subjects, Religious and Moral in October of 1773 verifying that Peters had written the poetry herself. He was supportive of the Peters work and the Wheatley family. <https://bigjuicybrain3.github.io/MyrasAnnotations/essay/03-attestation.html>
 
 Dr. Thomas Leonard had passed away in 1771 and just a year later Thankfull Hubbard Leonard also passed away in 1772\. On her passing, Peters also wrote an elegy in her honour addressed to her father Thomas Hubbard. The poem is also in Poems on Various Subjects, Religious and Moral the same collection as this poem. The poem is titled “To the Honourable T. H. Esq; on the Death of His Daughter”. Similar to this poem, it is a clear example of occasional poetry and aims to provide comfort to her father, just as she had provided to Thankfull Leonard just a year prior. In the poem she specifically mentions how Thankfull has returned to Leornard that same one she “ late wish’d that Leonard might return.” In the poem she uses similar types of religious imagery and describes a heavenly kingdom and speaks to the ties of love that are exalted in the after life.
 
-### To the Honourable T. H. Esq; on the Death of his Daughter.
+Word count: 570
 
+### To the Honourable T. H. Esq; on the Death of his Daughter.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHILE deep you mourn beneath the cypress-shade  
 The hand of Death, and your dear daughter laid  
 In dust, whose absence gives your tears to flow,  
@@ -97,5 +98,12 @@ Let brighter scenes your ev'ning-hours employ:
 Converse with heav'n, and taste the promis'd joy."
 
 ## Works Cited
+Brooks, Joanna. “Our Phillis, Ourselves”. American Literature, 2010, pp 1–28.
+
+Carretta, Vincent. “Notes on Complete Writings”, 2001, pp. 171-194. 
+
+Fens-De Zeeuw, Lyda and Robin Straaijer. “Long-s in Late Modern English Manuscripts.” English Language and Linguistics, 2012, pp. 319–338. 
+
+Wheatley, Phillis. “Poems on Various Subjects.” Complete Writings, pp. 3-65
 
 ---
