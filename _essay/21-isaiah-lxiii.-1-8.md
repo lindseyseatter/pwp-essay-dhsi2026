@@ -14,10 +14,9 @@ byline: Cadence Davies
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Just as Wheatley Peters demonstrated in “On being brought from Africa to America,” the poet adeptly draws on well-known and recognizable Christian imagery in "Isaiah lxiii. 1-8" and reframes it, arguing the incongruency of slavery within Christianity and imbuing a depiction of the abolitionist cause with the energy and imperative of a righteous, holy battle.
 
-Word Count: 778
+Word count: 778
 
 ## ISAIAH LXIII. 1-8.
-
 SAY, heav’nly muse, what king or mighty God,
   That moves sublime from Idumea’s road?
   In Bosrah’s dies, with martial glories join’d,
@@ -61,7 +60,7 @@ SAY, heav’nly muse, what king or mighty God,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of course, Wheatley Peters did not take her freedom in London, instead being freed a month after returning to the Wheatley's home in Massachusetts, and quickly setting herself to the work of funding her independence through the sales of her book, ensuring legitimacy by signing copies, knowing the threat piracy would pose to her sales (Carretta 156). What might have contributed to her decision to return from London was her prediction that abolition was fast approaching in America. As tensions between the British Empire and its colonial subjects in America intensified, “[t]he abolitionist movement was increasingly conflated in the northern colonies with opposition to imperial rule” and Phillis Wheatley Peters's residence in Boston would have served as an ideal place to witness and engage the growing momentum of both movements (Carreta 155). Aside from residing on King Street, “the seat of Massachusetts government,” the church where Wheatley Peters was baptized, the Old South Church, was the site where Bostonians members would gather in response to several notable events in the lead up to the American Revolution, like the Boston Massacre of 1770 and “the destruction of tea in Boston Harbor… later known as the ‘Boston Tea Party’” (Erkkila 353). 
 
-{% include essay/feature/image-gallery.html objectid="upload.wikimedia.org/wikipedia/commons/9/98/Old_South_Meeting_House%2C_Boston%2C_MA%2C_2023-02-21_01.jpg" alt="A photograph of the outside of the Old South Meeting House in Boston, Massachusetts, USA." caption="Old South Meeting House in Boston, Massachusetts, USA." source="Chris Woodrich, WikiMedia. CC BY-SA 4.0." width="70" %}
+{% include essay/feature/image-gallery.html objectid="wikimedia.org/wikipedia/commons/9/98/Old_South_Meeting_House%2C_Boston%2C_MA%2C_2023-02-21_01.jpg" alt="A photograph of the outside of the Old South Meeting House in Boston, Massachusetts, USA." caption="Old South Meeting House in Boston, Massachusetts, USA." source="Chris Woodrich, WikiMedia. CC BY-SA 4.0." width="70" %}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The depiction of the “dread image of the Pow'r of war” in “Isaiah lxiii. 1-8” (Wheatley Peters line 6), a poem written to mimic a biblical prophecy of a battle preceding a utopia, would align with this belief that the success of the colonies in the Revolutionary War would bring with it emancipation. However, to say that Wheatley Peters took this outcome for granted would be inaccurate. Her political engagement and abolitionist advocacy only became more explicit and forthright after her emancipation, including a letter to Reverend Samson Occum, a “popular Mohegan minister” and advocate for both Indigenous and Black Americans, that “was published in the Connecticut Gazette and then widely circulated in New England newspapers,” in which she asserted the innate desire for freedom in all human beings (Erkkila 364-365). It is clear to see that Wheatley Peters was hopeful that the freedom she imagined in the last lines of "Isaiah lxiii. 1-8" would come to pass, and that her poetry was an integral part of her efforts to realize it, crafting in her art the image of a better world that gave her the momentum to advocate for it existence.
 
