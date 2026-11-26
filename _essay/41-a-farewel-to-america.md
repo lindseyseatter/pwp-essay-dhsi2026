@@ -48,78 +48,91 @@ Word count: 1578
 
 ## A FAREWEL TO AMERICA. TO MRS. S. W.
                  I.
+                 
 <br>ADIEU, New-England’s smiling meads,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adieu, the flow’ry plain:
 <br>I leave thine op’ning charms, O spring,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And tempt the roaring main. {% include essay/feature/aside.html text="(Ocean) referring to the Atlantic Ocean" %} 
 
                  II.
+                 
 <br>In vain for me the flow’rets rise,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And boast their gaudy pride,
 <br>While here beneath the northern skies 
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I mourn for health deny’d.
 
                  III.
+                 
 <br>Celestial maid of rosy hue,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O let me feel thy reign!
 <br> I languish till thy face I view,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thy vanish’d joys regain.
 
                  IV.
+                 
 <br>Susanna{% include essay/feature/aside.html text="Susanna Wheatley, the lady who named Phillis and owned her." %} mourns, nor can I bear   
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To see the crystal show’r,
 <br>Or mark the tender falling tear
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At sad departure’s hour;
 
                  V.
+                 
 <br>Not unregarding can I see
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Her soul with grief opprest:
 <br>But let no sighs, no groans for me,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Steal from her pensive breast.
 
                  VI.
+                 
 <br>In vain the feather’d warblers sing,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In vain the garden blooms,
 <br>And on the bosom of the spring
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breathes out her sweet perfumes.
 
                  VII.
+                 
 <br>While for Britannia’s distant shore
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We sweep the liquid plain,
 <br>And with astonish’d eyes explore
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The wide-extended main.
 
                  VIII.
+                 
 <br>Lo! Health appears! celestial dame!
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Complacent and serene,
 <br>With Hebe’s{% include essay/feature/aside.html text="Greek Goddess of youth" %}  mantle o’er her Frame,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With soul-delighting mein. {% include essay/feature/aside.html text="(The look, bearing, manner, or conduct of a person, as showing character, mood, etc) To describe Hebe's physical demeanor as delightful" %}
 
                  IX.
+                 
 <br>To mark the vale where London lies
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With misty vapours crown’d,   
 <br>Which cloud Aurora’s{% include essay/feature/aside.html text="Greek Goddess of the dawn." %} thousand dyes,  
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And veil her charms around.
 
                  X.
+                 
 <br>Why, Phoebus{% include essay/feature/aside.html text="descriptive word to describe Apollo, Greek God of the sun" %}, moves thy car so slow?  
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So slow thy rising ray?
 <br> Give us the famous town to view,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thou glorious king of day!
 
                  XI.
+                 
 <br>For thee, Britannia, I resign
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New-England’s smiling fields;
 <br>To view again her charms divine,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What joy the prospect yields!
 
                  XII.
+                 
 <br>But thou!  Temptation hence away,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With all thy fatal train,
 <br>Nor once seduce my soul away,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By thine enchanting strain.
 
                  XIII.
+                 
 <br>Thrice happy they, whose heav’nly shield
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secures their souls from harms,
 <br>And fell Temptation on the field
