@@ -13,34 +13,18 @@ Instructor: Dr. Lindsey Seatter
 
 Students: _listed in alphabetical order_
 
-Alzahra Fadhel
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
-Anoop Dosanjh
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
-Cadence Davies
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
-Kathryn Davidson
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
-Max Banerjee
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
-Megan Moti
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
+Alzahra
+Cadence
+Kathryn
+Max
 Myra Jamal
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
-Nareka Brown
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
+Nareka
 Percy Gerard
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
-Roma Mahrose
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
-Rowan Crewe
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
+Roma
+Rowan
 Siama Malik
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
-Tarnjit Tagger
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
-Thomas Ho
-{% include essay/feature/blockquote.html quote="student quote." speaker="speaker name" %}
+Tarnjit
+Thomas
 
 ## Special Thanks
 A special thank you to Karen Meijer for liaising with the University of South Carolina regarding images permissions and Devin Becker for CB-Essay assistance, tech support, and general encouragement. 
