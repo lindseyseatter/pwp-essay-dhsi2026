@@ -3,7 +3,7 @@ title: To A Lady On The Death Of Her Husband.
 order: 15
 byline: Myra Jamal
 ---
-## Critical Introduction to "To A Lady On The Death Of Her Husband
+## Critical Introduction to "To A Lady On The Death Of Her Husband"
 
 “To a Lady on the Death of Her Husband” is an elegy Philis Wheatley Peters wrote in Boston for Dr. Thomas Leonard who had passed away in 1771 at the age of twenty-seven. The poem was originally titled “To Mrs. Leonard, on the Death of her Husband”, but was changed in 1773 while Peters was compiling her book Poems on Various Subjects, Religious and Moral (Carretta 176). It was dedicated Thankfull Hubbard Leonard, the wife of Thomas Leonard, to help her through her grief after his passing (Carretta 176). Thankfull Leonard was a childhood friend and neighbor of the Wheatley family and attended the same church as Philis Wheatley Peters (Brooks, 11). Along with being elegy dedicated to an acquaintance, this introduction seeks to highlight how the components in this poem reflect the way Wheatley may have processed her own grief. 
 
@@ -55,7 +55,7 @@ There is not much known about Peter's life before coming to America and she rare
 {% include essay/feature/image-gallery.html  
    objectid="pwp_28;pwp_29" %} 
 
-## Contextual Accompaniment to "To A Lady On The Death Of Her Husband
+## Contextual Accompaniment to "To A Lady On The Death Of Her Husband"
 
 The widow that this poem was dedicated to, Thankful Hubbard Leonard, was a close family friend of the Wheatley family, and she was also the daughter of Thomas Hubbard. Thomas Hubbard was a prominent and wealthy individual in the community. He was a successful merchant and the treasurer of Harvard College (Brooks, 11). He was also a neighbour of the Wheatley family. It was because of this status that Thomas Hubbard was able to be one of the eighteen individuals that signed off on the attestation in Philis Wheatley Peters book Poems on Various Subjects, Religious and Moral in October of 1773 verifying that Peters had written the poetry herself. He was supportive of the Peters work and the Wheatley family.
 
