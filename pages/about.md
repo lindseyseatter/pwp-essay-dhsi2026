@@ -7,23 +7,34 @@ credits: true
 text_search: true
 ---
 ## Project Team
-Below is a list of the ENGL 4300 (Fall 2026) participants who collaboratively assembled this edition. Each student has included their favourite classroom experience or memory below their name. To read more about Dr. Seatter's pedagogical approach read the "Pedagogical Statement" page.
+Below is a list of the ENGL 4300 (Fall 2026) participants who collaboratively assembled this edition. Each student has included their favourite classroom experience or memory below their name. To read the students' collaborative editorial statement, head to the "Editorial Statement" page. To read more about Dr. Seatter's pedagogical approach head to the "Pedagogical Statement" page.
 
 Instructor: Dr. Lindsey Seatter
 
 Students: _listed in alphabetical order_
 
 Alzahra
+
 Cadence
+
 Kathryn
+
 Max
+
 Myra Jamal
+
 Nareka
+
 Percy Gerard
+
 Roma
+
 Rowan
+
 Siama Malik
+
 Tarnjit
+
 Thomas
 
 ## Special Thanks
