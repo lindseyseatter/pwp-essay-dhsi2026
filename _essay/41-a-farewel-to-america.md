@@ -8,11 +8,11 @@ byline: Thomas Ho
 
   This reading of Phillis Wheatley Peters’ poem “A Farewell to America” is a reflective exploration of her relationship with eighteenth-century America, romanticized through natural imagery, particularly flowers, and allusions to Greek mythology. The imagery and atmosphere throughout the poem are indicative of Wheatley’s complicated relationship with America, as an enslaved African woman who experienced the oppressive social structures of colonial society while simultaneously developing her passion for poetry through her education. This relationship is particularly significant when considering Susanna Wheatley, whose family enslaved Phillis but also provided her with an education that allowed her to develop her literary abilities. The flowers that “boast their gaudy pride” contribute to the romanticized atmosphere of the poem, reflecting Wheatley’s emotional attachment to the geographical environment which she occupies but is preparing to leave (Wheatley 6). The significance of this imagery lies in its contrast with the oppressed and marginalized identity of her life in America, creating a complex relationship between personal attachment and the broader realities of enslavement.
 
-## Natural Imagery and Emotional Attachment to New England
+### Natural Imagery and Emotional Attachment to New England
 
   One might assume that an enslaved woman departing eighteenth-century America would express an overwhelming sense of joy at leaving an environment defined by racial oppression. However, Wheatley instead establishes an atmosphere of emotional departure and emotional attachment to the land she is leaving behind. Although the surviving historical records offer limited insight into the complexity of Wheatley’s personal emotions and relationships, the language of the poem suggests that she developed a meaningful connection to New England despite undergoing abolition. This interpretation is particularly evident in the opening line, where she writes of “New England’s smiling meads” (1). The personification of the landscape as “smiling” establishes a romanticized geographical environment, presenting the land through an affectionate rather than hostile perspective. This is further reinforced through her descriptions of flowers, birds, and gardens, particularly the phrases “flow’rets rise,” “feather’d warblers sing,” and “garden blooms.” These expressions emphasize the natural beauty of New England, suggesting that Wheatley associates the environment with memories and emotional attachments that extend beyond her experiences of enslavement. To further reinforce this atmosphere of melancholy, Wheatley introduces Susanna as an important emotional figure in the poem. She writes, “Susannah mourns” and describes the sorrow accompanying “sad departure’s hour” (13, 16). The imagery of Susanna’s grief emphasizes the personal relationships that Wheatley associates with her life in America. This moment is particularly significant because it complicates the relationship between an enslaved woman and the family responsible for her enslavement. Although Susanna played an important role in Wheatley’s education and literary development, this relationship existed within the unequal power structures of slavery. Nevertheless, Wheatley’s depiction of Susanna’s grief suggests an emotional connection that she is reluctant to leave behind. The sorrow expressed through this interaction complements the romanticized descriptions of nature, reinforcing the idea that Wheatley’s attachment to America is shaped by both the people and the geographical environment she has come to know. Rather than presenting her departure through the lens of liberation and freedom, she depicts her departure as a mournful and emotional event. Ultimately implying that through this reading, the poem “A Farewel to America” by Phillis Wheatley Peters is an expression of her attachment to New England the literary upbringing it provided her despite its institutional slavery.
 
-## Greek Mythological Allusions
+### Greek Mythological Allusions
 
 Greek mythological allusions remain a pervasive feature of Phillis Wheatley’s poetry, demonstrating her classical education while also contributing to the emotional atmosphere of “A Farewell to America.” One particularly important example occurs when Wheatley personifies *Health* as a celestial woman adorned with the mantle of *Hebe*, the Greek goddess associated with youth. The connection between Health and Hebe symbolically unites the virtues of youth, vitality, and physical well-being, all of which become especially significant when considering Wheatley’s earlier references to her declining health. This reference and connection between Health and Hebe is especially significant considering it is located subsequently after the mention of the ocean as Wheatley writes:
 
@@ -48,12 +48,11 @@ This opposition is further emphasized in the concluding lines:
 
 The imagery of a “heav’nly shield” symbolizes spiritual protection, while the defeat of Temptation suggests the triumph of virtue over internal conflict. The religious imagery also reflects Wheatley’s Christian beliefs, establishing spiritual conviction as a source of strength during her transition between America and Britain. Temptation therefore functions as a personified moral threat whose rejection symbolically parallels Wheatley’s resolution of her earlier emotional ambivalence. Ultimately, the conclusion can be interpreted as Wheatley embracing her departure with a renewed sense of acceptance, spiritual conviction, and anticipation for the experiences awaiting her in London. The juxtaposition between Wheatley’s mournful departure from New England and her anticipation of London creates an emotional tension throughout the poem. Although she expresses sorrow over leaving the land and relationships that shaped her upbringing, she simultaneously looks forward to the possibilities that London represents. This contrast is particularly important when considering how Wheatley associates New England with natural beauty and personal attachment, while London is introduced through celestial imagery and the promise of new experiences. Her appeal to Phoebus demonstrates a desire to move forward, even as her earlier descriptions of New England reveal an attachment to the place she is leaving behind. The transition between these settings therefore reflects more than a physical journey across the Atlantic; it also represents an emotional movement between familiarity and uncertainty. Ultimately, Wheatley’s use of natural imagery and Greek mythological allusions establishes an emotional narrative in which sorrow and anticipation coexist. The flowers, birds, and landscapes of New England represent her attachment to the environment in which she developed as a poet, while the mythological figures of Hebe, Aurora, and Phoebus illustrate her desire for renewed health and anticipation surrounding her arrival in London. What makes this poem particularly compelling is that Wheatley does not portray America exclusively through the oppression she experienced as an enslaved woman, nor does she present her departure as an entirely joyful occasion. Instead, her romanticized imagery and mythological references reveal the complexity of her relationship with America, suggesting that personal affection and the realities of enslavement can coexist within her poetic representation of the land she is leaving.
 
->Word Count: 1578
+Word count: 1578
 
 
 ## A FAREWEL TO AMERICA. TO MRS. S. W.
 
-<pre>
                  I.
 
   ADIEU, New-England’s smiling meads,
@@ -123,7 +122,6 @@ The imagery of a “heav’nly shield” symbolizes spiritual protection, while 
   Give us the famous town to view,
       Thou glorious king of day!
 
-
                  XI.
 
   For thee, Britannia, I resign
@@ -149,11 +147,9 @@ The imagery of a “heav’nly shield” symbolizes spiritual protection, while 
 {% include essay/feature/image-gallery.html
    objectid="pwp_18;pwp_19;pwp_20" %}
 
-## Contextual
-  
-  # Historical and Biographical Context of Phillis Wheatley’s “A Farewel to America”
+## Contextual Accompaniment to "A Farewel To America. To Mrs. S.W."
 
-## Historical Context and Publication
+### Historical Context and Publication
 
 <p align="center">
   <img src="{{ '/objects/map.jpg' | relative_url }}" width="600">
