@@ -13,7 +13,7 @@ Word count: 525
 <br>The muses promise to assist my pen;
 <br>’Twas not long since I left my native shore
 <br>The land of errors, and Egyptian gloom:
-<br>Father of mercy, ’twas thy gracious hand {% include essay/feature/aside.html text="Father of mercy: Biblical refrence to God" %}  
+<br>Father of mercy, ’twas thy gracious hand {% include essay/feature/aside.html text="Father of mercy: Biblical refrence to God" %}
 <br>Brought me in safety from those dark abodes.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students, to you ’tis giv’n to scan the heights 
@@ -51,7 +51,6 @@ In "To the University of Cambridge, in New-England, Phillis Wheatley writes a le
 Word count: 435
 
 ## Works Cited 
-
 Wheatley, Phillis."To the University of Cambridge, in New-England".To the Poems on Varoius Subjects, Pinguin Classics, 2001, pp.11-12.
 
 Jones, Eleanor."An Eighty-Year Wait to Graduate: Women at Cambridge.Uncomfortable Cambridge, 30 October 2022, https://www.uncomfortablecambridge.com/learn/women-s-wait-to-graduate-from-cambridge. 
