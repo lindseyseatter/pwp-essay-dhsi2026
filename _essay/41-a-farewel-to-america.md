@@ -180,7 +180,6 @@ The letter reads:
 </p>
 
 ## Works Cited
-
 John Gerar William De Brahm, Hydrographical map of the Atlantic Ocean, extending from the southernmost part of North America to Europe, American Revolutionary Geographies Online. https://www.argomaps.org/maps/commonwealth:3f462v57w/ 
 
 Isani, Mukhtar Ali. “Wheatley’s Departure for London and Her ‘Farewel to America.’” South Atlantic Bulletin, vol. 42, no. 4, 1977, pp. 123–29. JSTOR, https://doi.org/10.2307/3199034. 
