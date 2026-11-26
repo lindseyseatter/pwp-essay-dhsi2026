@@ -10,27 +10,26 @@ byline: Roma
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wheatley Peters’ position as an enslaved African woman publishing poetry in eighteenth-century America provides important historical context. Her 1773 publication was a significant literary achievement during a period when Black intellectual and literary abilities were frequently questioned. Although “On Virtue” is not an explicit political statement, it demonstrates her intellectual authority and engagement with religious and literary traditions at the time. Ultimately, the poem presents virtue as a precious and guiding presence that requires patience, wisdom, and spiritual commitment. Within the wider collection, it reflects Wheatley’s interest in Christian morality and the relationship between human character and spiritual fulfilment. 
 
 ## On Virtue.  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Thou bright jewel in my aim I strive {% include essay/feature/aside.html text="bright jewel is symbolism/metaphor for virtue" %}
-<br>To comprehend thee.  Thine own words declare   
-<br>Wisdom is higher than a fool can reach.   
-<br>I cease to wonder, and no more attempt   
-<br>Thine height t’ explore, or fathom thy profound.   
-<br>But, O my soul, sink not into despair,   
-<br>Virtue is near thee, and with gentle hand   
-<br>Would now embrace thee, hovers o’er thine head.   
-<br>Fain would the heav’n-born soul with her converse,   
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Thou bright jewel in my aim I strive {% include essay/feature/aside.html text="bright jewel is symbolism/metaphor for virtue" %}<br>To comprehend thee. Thine own words declare
+<br>Wisdom is higher than a fool can reach.
+<br>I cease to wonder, and no more attempt
+<br>Thine height t’ explore, or fathom thy profound.
+<br>But, O my soul, sink not into despair,
+<br>Virtue is near thee, and with gentle hand
+<br>Would now embrace thee, hovers o’er thine head.
+<br>Fain would the heav’n-born soul with her converse,
 <br>Then seek, then court her for her promis’d bliss.
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auspicious queen, thine heav’nly pinions spread, {% include essay/feature/aside.html text="auspicious means predicting good fortune or success" %}  
-<br>And lead celestial Chastity along; {% include essay/feature/aside.html text="chastity means moral purity or self restraint from sins" %}  
-<br>Lo\! now her sacred retinue descends,   
-<br>Array’d in glory from the orbs above.   
-<br>Attend me, Virtue, thro’ my youthful years\!   
-<br>O leave me not to the false joys of time\!   
-<br>But guide my steps to endless life and bliss.   
-<br>Greatness, or Goodness, say what I shall call thee,  
-<br>To give me an higher appellation still, {% include essay/feature/aside.html text="appellation means to appeal to a higher court against an inferior one" %}  
-<br>Teach me a better strain, a nobler lay,  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auspicious queen, thine heav’nly pinions spread, {% include essay/feature/aside.html text="auspicious means predicting good fortune or success" %}
+<br>And lead celestial Chastity along; {% include essay/feature/aside.html text="chastity means moral purity or self restraint from sins" %}
+<br>Lo! now her sacred retinue descends,
+<br>Array’d in glory from the orbs above.
+<br>Attend me, Virtue, thro’ my youthful years!
+<br>O leave me not to the false joys of time!
+<br>But guide my steps to endless life and bliss.
+<br>Greatness, or Goodness, say what I shall call thee,
+<br>To give me an higher appellation still, {% include essay/feature/aside.html text="appellation means to appeal to a higher court against an inferior one" %}
+<br>Teach me a better strain, a nobler lay,
 <br>O thou, enthron’d with Cherubs in the realms of day\! {% include essay/feature/aside.html text="cherubs means a fullness of knowledge" %}
 
 {% include essay/feature/image-gallery.html
