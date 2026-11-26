@@ -55,10 +55,10 @@ Word count: 1578
 
                  I.
 
-  ADIEU, New-England’s smiling meads,
-      Adieu, the flow’ry plain:
-  I leave thine op’ning charms, O spring,
-      And tempt the roaring main. {% include essay/feature/aside.html text="(Ocean) referring to the Atlantic Ocean" %} 
+<br>ADIEU, New-England’s smiling meads,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adieu, the flow’ry plain:
+<br>I leave thine op’ning charms, O spring,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And tempt the roaring main. {% include essay/feature/aside.html text="(Ocean) referring to the Atlantic Ocean" %} 
 
                  II.
 
