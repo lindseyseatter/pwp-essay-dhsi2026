@@ -90,7 +90,6 @@ Word Count: 585
 Word Count: 650
 
 ## Works Cited
-
 Amoah-Ramey, Nana A. "Insurgent Words, Poetic Diplomacy: Frederick Douglass, Phillis Wheatley, and Literacy as Liberation." *Journal of Black Studies*, vol. 57, no. 7, 2026, pp. 827-846. https://journals-sagepub-com.ezproxy.kpu.ca:2443/doi/full/10.1177/00219347251393531?utm_source=summon&utm_medium=discovery-provider.
 
 "Aurora." *Wikipedia,* Wikimedia Foundation, 13 November 2026, https://en.wikipedia.org/wiki/Aurora. 
