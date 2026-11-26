@@ -54,7 +54,6 @@ Word count: 1578
 ## A FAREWEL TO AMERICA. TO MRS. S. W.
 
                  I.
-
 <br>ADIEU, New-England’s smiling meads,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adieu, the flow’ry plain:
 <br>I leave thine op’ning charms, O spring,
