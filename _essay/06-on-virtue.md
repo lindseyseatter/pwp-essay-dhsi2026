@@ -31,7 +31,7 @@ byline: Roma
 <br>Greatness, or Goodness, say what I shall call thee,  
 <br>To give me an higher appellation still, {% include essay/feature/aside.html text="appellation means to appeal to a higher court against an inferior one" %}  
 <br>Teach me a better strain, a nobler lay,  
-<br>O thou, enthron’d with Cherubs in the realms of day\! {% include essay/feature/aside.html text="cherubs means a "fullness of knowledge" %}
+<br>O thou, enthron’d with Cherubs in the realms of day\! {% include essay/feature/aside.html text="cherubs means a fullness of knowledge" %}
 
 {% include essay/feature/image-gallery.html
    objectid="pwp_12;pwp_13" %}
@@ -43,7 +43,6 @@ byline: Roma
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ultimately, Wheatley’s understanding of virtue encourages readers to consider morality as something deeper than outward respectability or social status. Through Christian imagery and the personification of virtue, she presents goodness as an ongoing commitment to wisdom, self-discipline, and spiritual growth. The historical context makes this message particularly meaningful because it invites readers to consider whether the moral values promoted by society were genuinely reflected in how people treated one another.
  
 ## Works Cited
-
 Harvey, Karen, and Emily Vine. "Prayer for Family and Friends: The Body and Religion in   
 Eighteenth-Century Britain." The Historical Journal, vol. 67, no. 3, 2024, pp. 406-429. ProQuest, https\://ezproxy.kpu.ca:2443/login?url=https\://www\.proquest.com/scholarly-journals/prayer-family-friends-body-religion-eighteenth/docview/3051261861/se-2, doi:https\://doi.org/10.1017/S0018246X24000086.
 
