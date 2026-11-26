@@ -76,7 +76,7 @@ Word Count: 585
 <br>Cease then, my song, cease the unequal lay {% include essay/feature/aside.html text="a song or poem in 18th century literature" %}.
 
 {% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
+   objectid="pwp_64;pwp_65;pwp_66;pwp_67" %}
 
 ## Contextual Accompaniment to "On Imagination"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Previously, neoclassical poetry was usually written by white males possessing the privilege of wealth. Phillis Wheatley’s role as a black woman who was enslaved at the time of writing her book demonstrates that she continues to serve as an inspiration for other black writers who attempt to follow in her footsteps, without trespassing the boundaries of decency and contempt for the brutal history of the past involving the practices of black enslavement. Wheatley’s use of Greek and Roman mythology in her poem “On Imagination” demonstrates Wheatley’s brilliance as a neoclassical writer who strategically elevated herself amongst Western society by proving that she too is capable of a high intellect that centers on logic, restraint, and a striking balance by sticking to the traditional form of poetry rather than deviating from its original layout.
