@@ -33,7 +33,7 @@ byline: Roma
 <br>Teach me a better strain, a nobler lay,  
 <br>O thou, enthron’d with Cherubs in the realms of day\! {% include essay/feature/aside.html text="'cherubs' means a "fullness of knowledge"" %}
 
-{% include essay/feature/image-gallery.html  
+{% include essay/feature/image-gallery.html
    objectid="pwp_12;pwp_13" %}
 
 ## Contextual Accompaniment to "On Virtue"  
