@@ -10,7 +10,7 @@ byline: Roma
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wheatley Peters’ position as an enslaved African woman publishing poetry in eighteenth-century America provides important historical context. Her 1773 publication was a significant literary achievement during a period when Black intellectual and literary abilities were frequently questioned. Although “On Virtue” is not an explicit political statement, it demonstrates her intellectual authority and engagement with religious and literary traditions at the time. Ultimately, the poem presents virtue as a precious and guiding presence that requires patience, wisdom, and spiritual commitment. Within the wider collection, it reflects Wheatley’s interest in Christian morality and the relationship between human character and spiritual fulfilment. 
 
 ## On Virtue.  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Thou bright jewel in my aim I strive {% include essay/feature/aside.html text="bright jewel is symbolism/metaphor for virtue %}  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Thou bright jewel in my aim I strive {% include essay/feature/aside.html text="bright jewel is symbolism/metaphor for virtue" %}
 <br>To comprehend thee.  Thine own words declare   
 <br>Wisdom is higher than a fool can reach.   
 <br>I cease to wonder, and no more attempt   
@@ -31,7 +31,7 @@ byline: Roma
 <br>Greatness, or Goodness, say what I shall call thee,  
 <br>To give me an higher appellation still, {% include essay/feature/aside.html text="appellation means to appeal to a higher court against an inferior one" %}  
 <br>Teach me a better strain, a nobler lay,  
-<br>O thou, enthron’d with Cherubs in the realms of day\! {% include essay/feature/aside.html text="cherubs means a "fullness of knowledge"" %}
+<br>O thou, enthron’d with Cherubs in the realms of day\! {% include essay/feature/aside.html text="cherubs means a "fullness of knowledge" %}
 
 {% include essay/feature/image-gallery.html
    objectid="pwp_12;pwp_13" %}
