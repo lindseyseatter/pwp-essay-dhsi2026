@@ -15,40 +15,39 @@ Word Count: 585
 <img width="822" height="1083" alt="image" src="https://github.com/user-attachments/assets/065dae99-e0bf-4c48-a55f-eb315a2a925b" />
 
 ## ON IMAGINATION.
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THY various works, imperial queen, we see,
 <br>How bright their forms! how deck’d with pomp by thee!
 <br>Thy wond’rous acts in beauteous order stand,
 <br>And all attest how potent is thine hand.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From *Helicon’s* [^1] refulgent[^2] heights attend,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From *Helicon’s* {% include essay/feature/aside.html text="the name of a mountain in Boeotia, Greece. It is a place of artistic inspiration which originates from Greek mythology." %} refulgent {% include essay/feature/aside.html text="means to shine radiantly." %} heights attend,
 <br>Ye sacred choir, and my attempts befriend:
 <br>To tell her glories with a faithful tongue,
 <br>Ye blooming graces, triumph in my song.
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now here, now there, the roving[^3] *Fancy* [^4] flies,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now here, now there, the roving{% include essay/feature/aside.html text="the act of travelling without an aim." %} *Fancy* {% include essay/feature/aside.html text="another word for imagination" %} flies,
 <br>Till some lov’d object strikes her wand’ring eyes,
-<br>Whose silken fetters[^5] all the senses bind,
+<br>Whose silken fetters {% include essay/feature/aside.html text="chains or shackles that were placed around the ankles or feet, limiting movement" %} all the senses bind,
 <br>And soft captivity involves the mind.
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Imagination*! who can sing thy force?
 <br>Or who describe the swiftness of thy course?
 <br>Soaring through air to find the bright abode,
 <br>Th’ empyreal palace of the thund’ring God,
-<br>We on thy pinions[^6] can surpass the wind,
+<br>We on thy pinions {% include essay/feature/aside.html text="the external portion of a bird’s wing." %} can surpass the wind,
 <br>And leave the rolling universe behind:
 <br>From star to star the mental optics rove,
 <br>Measure the skies, and range the realms above.
 <br>There in one view we grasp the mighty whole,
 <br>Or with new worlds amaze th’ unbounded soul.
-
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though *Winter* frowns to *Fancy’s* raptur’d eyes
 <br>The fields may flourish, and gay scenes arise;
 <br>The frozen deeps may break their iron bands,
 <br>And bid their waters murmur o’er the sands.
-<br>Fair *Flora* [^7] may resume her fragrant reign,
+<br>Fair *Flora* {% include essay/feature/aside.html text="the goddess of all plants, flowers, and spring in Roman mythology." %} may resume her fragrant reign,
 <br>And with her flow’ry riches deck the plain;
-<br>*Sylvanus*[^8] may diffuse his honours round,
+<br>*Sylvanus* {% include essay/feature/aside.html text="God of the wilderness, woods, and the forest in Roman mythology." %} may diffuse his honours round,
 <br>And all the forest may with leaves be crown’d:
 <br>Show’rs may descend, and dews their gems disclose,
 <br>And nectar sparkle on the blooming rose.
@@ -64,17 +63,17 @@ Word Count: 585
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Fancy* might now her silken pinions try
 <br>To rise from earth, and sweep th’ expanse on high:
-<br>From *Tithon’s* bed[^9] now might *Aurora*[^10] rise,
+<br>From *Tithon’s* bed {% include essay/feature/aside.html text="in Greek mythology the marriage bed of Tithonus (the lover of Eos) and Eos (the goddess of dawn). Eos gave brightness to the world in the morning after rising from this bed." %} now might *Aurora* {% include essay/feature/aside.html text="Known as the goddess of dawn in Roman mythology (the equivalent of the goddess Eos from Greek mythology). It is also a vibrant display of natural colourful lights in the sky." %} rise,
 <br>Her cheeks all glowing with celestial dies,
 <br>While a pure stream of light o’erflows the skies.
 <br>The monarch of the day I might behold,
 <br>And all the mountains tipt with radiant gold,
 <br>But I reluctant leave the pleasing views,
-<br>Which *Fancy* dresses to delight the *Muse*; [^11]
+<br>Which *Fancy* dresses to delight the *Muse*; {% include essay/feature/aside.html text="They are the nine goddesses in Greek mythology pertaining to literature, sciences and the arts. In modern times it refers to a person or force who serves as a source of artistic inspiration for the artist. According to Greek mythology Mount Helicon (located in Boeotia, Greece) is the home of the Muses." %} 
 <br>*Winter* austere forbids me to aspire,
 <br>And northern tempests damp the rising fire;
 <br>They chill the tides of *Fancy’s* flowing sea,
-<br>Cease then, my song, cease the unequal lay[^12].
+<br>Cease then, my song, cease the unequal lay {% include essay/feature/aside.html text="a song or poem in 18th century literature" %}.
 
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
