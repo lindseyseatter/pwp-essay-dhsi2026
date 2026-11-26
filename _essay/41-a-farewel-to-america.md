@@ -3,18 +3,14 @@ title: A Farewel To America. To Mrs. S.W.
 order: 42
 byline: Thomas Ho
 ---
-  
 ## Critical Introduction to "A Farewel To America. To Mrs. S.W."
-
-  This reading of Phillis Wheatley Peters’ poem “A Farewell to America” is a reflective exploration of her relationship with eighteenth-century America, romanticized through natural imagery, particularly flowers, and allusions to Greek mythology. The imagery and atmosphere throughout the poem are indicative of Wheatley’s complicated relationship with America, as an enslaved African woman who experienced the oppressive social structures of colonial society while simultaneously developing her passion for poetry through her education. This relationship is particularly significant when considering Susanna Wheatley, whose family enslaved Phillis but also provided her with an education that allowed her to develop her literary abilities. The flowers that “boast their gaudy pride” contribute to the romanticized atmosphere of the poem, reflecting Wheatley’s emotional attachment to the geographical environment which she occupies but is preparing to leave (Wheatley 6). The significance of this imagery lies in its contrast with the oppressed and marginalized identity of her life in America, creating a complex relationship between personal attachment and the broader realities of enslavement.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This reading of Phillis Wheatley Peters’ poem “A Farewell to America” is a reflective exploration of her relationship with eighteenth-century America, romanticized through natural imagery, particularly flowers, and allusions to Greek mythology. The imagery and atmosphere throughout the poem are indicative of Wheatley’s complicated relationship with America, as an enslaved African woman who experienced the oppressive social structures of colonial society while simultaneously developing her passion for poetry through her education. This relationship is particularly significant when considering Susanna Wheatley, whose family enslaved Phillis but also provided her with an education that allowed her to develop her literary abilities. The flowers that “boast their gaudy pride” contribute to the romanticized atmosphere of the poem, reflecting Wheatley’s emotional attachment to the geographical environment which she occupies but is preparing to leave (Wheatley 6). The significance of this imagery lies in its contrast with the oppressed and marginalized identity of her life in America, creating a complex relationship between personal attachment and the broader realities of enslavement.
 
 ### Natural Imagery and Emotional Attachment to New England
-
-  One might assume that an enslaved woman departing eighteenth-century America would express an overwhelming sense of joy at leaving an environment defined by racial oppression. However, Wheatley instead establishes an atmosphere of emotional departure and emotional attachment to the land she is leaving behind. Although the surviving historical records offer limited insight into the complexity of Wheatley’s personal emotions and relationships, the language of the poem suggests that she developed a meaningful connection to New England despite undergoing abolition. This interpretation is particularly evident in the opening line, where she writes of “New England’s smiling meads” (1). The personification of the landscape as “smiling” establishes a romanticized geographical environment, presenting the land through an affectionate rather than hostile perspective. This is further reinforced through her descriptions of flowers, birds, and gardens, particularly the phrases “flow’rets rise,” “feather’d warblers sing,” and “garden blooms.” These expressions emphasize the natural beauty of New England, suggesting that Wheatley associates the environment with memories and emotional attachments that extend beyond her experiences of enslavement. To further reinforce this atmosphere of melancholy, Wheatley introduces Susanna as an important emotional figure in the poem. She writes, “Susannah mourns” and describes the sorrow accompanying “sad departure’s hour” (13, 16). The imagery of Susanna’s grief emphasizes the personal relationships that Wheatley associates with her life in America. This moment is particularly significant because it complicates the relationship between an enslaved woman and the family responsible for her enslavement. Although Susanna played an important role in Wheatley’s education and literary development, this relationship existed within the unequal power structures of slavery. Nevertheless, Wheatley’s depiction of Susanna’s grief suggests an emotional connection that she is reluctant to leave behind. The sorrow expressed through this interaction complements the romanticized descriptions of nature, reinforcing the idea that Wheatley’s attachment to America is shaped by both the people and the geographical environment she has come to know. Rather than presenting her departure through the lens of liberation and freedom, she depicts her departure as a mournful and emotional event. Ultimately implying that through this reading, the poem “A Farewel to America” by Phillis Wheatley Peters is an expression of her attachment to New England the literary upbringing it provided her despite its institutional slavery.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One might assume that an enslaved woman departing eighteenth-century America would express an overwhelming sense of joy at leaving an environment defined by racial oppression. However, Wheatley instead establishes an atmosphere of emotional departure and emotional attachment to the land she is leaving behind. Although the surviving historical records offer limited insight into the complexity of Wheatley’s personal emotions and relationships, the language of the poem suggests that she developed a meaningful connection to New England despite undergoing abolition. This interpretation is particularly evident in the opening line, where she writes of “New England’s smiling meads” (1). The personification of the landscape as “smiling” establishes a romanticized geographical environment, presenting the land through an affectionate rather than hostile perspective. This is further reinforced through her descriptions of flowers, birds, and gardens, particularly the phrases “flow’rets rise,” “feather’d warblers sing,” and “garden blooms.” These expressions emphasize the natural beauty of New England, suggesting that Wheatley associates the environment with memories and emotional attachments that extend beyond her experiences of enslavement. To further reinforce this atmosphere of melancholy, Wheatley introduces Susanna as an important emotional figure in the poem. She writes, “Susannah mourns” and describes the sorrow accompanying “sad departure’s hour” (13, 16). The imagery of Susanna’s grief emphasizes the personal relationships that Wheatley associates with her life in America. This moment is particularly significant because it complicates the relationship between an enslaved woman and the family responsible for her enslavement. Although Susanna played an important role in Wheatley’s education and literary development, this relationship existed within the unequal power structures of slavery. Nevertheless, Wheatley’s depiction of Susanna’s grief suggests an emotional connection that she is reluctant to leave behind. The sorrow expressed through this interaction complements the romanticized descriptions of nature, reinforcing the idea that Wheatley’s attachment to America is shaped by both the people and the geographical environment she has come to know. Rather than presenting her departure through the lens of liberation and freedom, she depicts her departure as a mournful and emotional event. Ultimately implying that through this reading, the poem “A Farewel to America” by Phillis Wheatley Peters is an expression of her attachment to New England the literary upbringing it provided her despite its institutional slavery.
 
 ### Greek Mythological Allusions
-
-Greek mythological allusions remain a pervasive feature of Phillis Wheatley’s poetry, demonstrating her classical education while also contributing to the emotional atmosphere of “A Farewell to America.” One particularly important example occurs when Wheatley personifies *Health* as a celestial woman adorned with the mantle of *Hebe*, the Greek goddess associated with youth. The connection between Health and Hebe symbolically unites the virtues of youth, vitality, and physical well-being, all of which become especially significant when considering Wheatley’s earlier references to her declining health. This reference and connection between Health and Hebe is especially significant considering it is located subsequently after the mention of the ocean as Wheatley writes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greek mythological allusions remain a pervasive feature of Phillis Wheatley’s poetry, demonstrating her classical education while also contributing to the emotional atmosphere of “A Farewell to America.” One particularly important example occurs when Wheatley personifies *Health* as a celestial woman adorned with the mantle of *Hebe*, the Greek goddess associated with youth. The connection between Health and Hebe symbolically unites the virtues of youth, vitality, and physical well-being, all of which become especially significant when considering Wheatley’s earlier references to her declining health. This reference and connection between Health and Hebe is especially significant considering it is located subsequently after the mention of the ocean as Wheatley writes:
 
 > And with astonish’d eyes explore  
 > The wide-extended main
@@ -50,9 +46,7 @@ The imagery of a “heav’nly shield” symbolizes spiritual protection, while 
 
 Word count: 1578
 
-
 ## A FAREWEL TO AMERICA. TO MRS. S. W.
-
                  I.
 <br>ADIEU, New-England’s smiling meads,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adieu, the flow’ry plain:
@@ -60,88 +54,78 @@ Word count: 1578
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And tempt the roaring main. {% include essay/feature/aside.html text="(Ocean) referring to the Atlantic Ocean" %} 
 
                  II.
-
-   In vain for me the flow’rets rise,
-      And boast their gaudy pride,
-  While here beneath the northern skies 
-      I mourn for health deny’d.
+<br>In vain for me the flow’rets rise,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And boast their gaudy pride,
+<br>While here beneath the northern skies 
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I mourn for health deny’d.
 
                  III.
-
-    Celestial maid of rosy hue,
-      O let me feel thy reign!
-  I languish till thy face I view,
-      Thy vanish’d joys regain.
+<br>Celestial maid of rosy hue,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O let me feel thy reign!
+<br> I languish till thy face I view,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thy vanish’d joys regain.
 
                  IV.
-
-  Susanna{% include essay/feature/aside.html text="Susanna Wheatley, the lady who named Phillis and owned her." %} mourns, nor can I bear   
-      To see the crystal show’r,
-  Or mark the tender falling tear
-      At sad departure’s hour;
+<br>Susanna{% include essay/feature/aside.html text="Susanna Wheatley, the lady who named Phillis and owned her." %} mourns, nor can I bear   
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To see the crystal show’r,
+<br>Or mark the tender falling tear
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At sad departure’s hour;
 
                  V.
-
-   Not unregarding can I see
-      Her soul with grief opprest:
-  But let no sighs, no groans for me,
-      Steal from her pensive breast.
+<br>Not unregarding can I see
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Her soul with grief opprest:
+<br>But let no sighs, no groans for me,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Steal from her pensive breast.
 
                  VI.
-
-  In vain the feather’d warblers sing,
-      In vain the garden blooms,
-  And on the bosom of the spring
-      Breathes out her sweet perfumes.
+<br>In vain the feather’d warblers sing,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In vain the garden blooms,
+<br>And on the bosom of the spring
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breathes out her sweet perfumes.
 
                  VII.
-
-  While for Britannia’s distant shore
-      We sweep the liquid plain,
-  And with astonish’d eyes explore
-      The wide-extended main.
+<br>While for Britannia’s distant shore
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We sweep the liquid plain,
+<br>And with astonish’d eyes explore
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The wide-extended main.
 
                  VIII.
-
-  Lo! Health appears! celestial dame!
-      Complacent and serene,
-  With Hebe’s{% include essay/feature/aside.html text="Greek Goddess of youth" %}  mantle o’er her Frame,
-      With soul-delighting mein. {% include essay/feature/aside.html text="(The look, bearing, manner, or conduct of a person, as showing character, mood, etc) To describe Hebe's physical demeanor as delightful" %}
+<br>Lo! Health appears! celestial dame!
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Complacent and serene,
+<br>With Hebe’s{% include essay/feature/aside.html text="Greek Goddess of youth" %}  mantle o’er her Frame,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With soul-delighting mein. {% include essay/feature/aside.html text="(The look, bearing, manner, or conduct of a person, as showing character, mood, etc) To describe Hebe's physical demeanor as delightful" %}
 
                  IX.
-  To mark the vale where London lies
-      With misty vapours crown’d,   
-  Which cloud Aurora’s{% include essay/feature/aside.html text="Greek Goddess of the dawn." %} thousand dyes,  
-      And veil her charms around.
+<br>To mark the vale where London lies
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With misty vapours crown’d,   
+<br>Which cloud Aurora’s{% include essay/feature/aside.html text="Greek Goddess of the dawn." %} thousand dyes,  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And veil her charms around.
 
                  X.
-
-  Why, Phoebus{% include essay/feature/aside.html text="descriptive word to describe Apollo, Greek God of the sun" %}, moves thy car so slow?  
-      So slow thy rising ray?
-  Give us the famous town to view,
-      Thou glorious king of day!
+<br>Why, Phoebus{% include essay/feature/aside.html text="descriptive word to describe Apollo, Greek God of the sun" %}, moves thy car so slow?  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So slow thy rising ray?
+<br> Give us the famous town to view,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thou glorious king of day!
 
                  XI.
-
-  For thee, Britannia, I resign
-      New-England’s smiling fields;
-  To view again her charms divine,
-      What joy the prospect yields!
+<br>For thee, Britannia, I resign
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New-England’s smiling fields;
+<br>To view again her charms divine,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What joy the prospect yields!
 
                  XII.
-
-  But thou!  Temptation hence away,
-      With all thy fatal train,
-  Nor once seduce my soul away,
-      By thine enchanting strain.
+<br>But thou!  Temptation hence away,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With all thy fatal train,
+<br>Nor once seduce my soul away,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By thine enchanting strain.
 
                  XIII.
-  Thrice happy they, whose heav’nly shield
-      Secures their souls from harms,
-  And fell Temptation on the field
-      Of all its pow’r disarms!
+<br>Thrice happy they, whose heav’nly shield
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secures their souls from harms,
+<br>And fell Temptation on the field
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Of all its pow’r disarms!
 
-    Boston, May 7, 1773.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boston, May 7, 1773.
 
 {% include essay/feature/image-gallery.html
    objectid="pwp_18;pwp_19;pwp_20" %}
@@ -149,7 +133,6 @@ Word count: 1578
 ## Contextual Accompaniment to "A Farewel To America. To Mrs. S.W."
 
 ### Historical Context and Publication
-
 <p align="center">
   <img src="{{ '/objects/map.jpg' | relative_url }}" width="600">
   <br>
@@ -197,7 +180,7 @@ The letter reads:
 </p>
 
 ## Works Cited
-  
+
 John Gerar William De Brahm, Hydrographical map of the Atlantic Ocean, extending from the southernmost part of North America to Europe, American Revolutionary Geographies Online. https://www.argomaps.org/maps/commonwealth:3f462v57w/ 
 
 Isani, Mukhtar Ali. “Wheatley’s Departure for London and Her ‘Farewel to America.’” South Atlantic Bulletin, vol. 42, no. 4, 1977, pp. 123–29. JSTOR, https://doi.org/10.2307/3199034. 
