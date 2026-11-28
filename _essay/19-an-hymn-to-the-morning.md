@@ -53,30 +53,30 @@ Peters’s decides to leave these male deities unnamed, instead alluding to them
 speaker’s pleasant experience. This points to her depth of knowledge of Greek myth as well as the importance of the goddesses within this brief moment.
 
 ## An HYMN to the MORNING.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATTEND my lays, ye ever honour'd nine, {% include essay/feature/aside.html text="An invocation of the nine Muses." %}  
-<br>Assist my labours, and my strains refine;  
-<br>In smoothest numbers pour the notes along,  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATTEND my lays, ye ever honour'd nine, {% include essay/feature/aside.html text="An invocation of the nine Muses." %}
+<br>Assist my labours, and my strains refine;
+<br>In smoothest numbers pour the notes along,
 <br>For bright _Aurora_{% include essay/feature/aside.html text="Goddess of Dawn." %} now demands my song.  
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Aurora_ hail{% include essay/feature/aside.html text="hail (v.) to greet with enthusiastic approval, to greet or summon by calling" %}, and
-all the thousand dies,  
+all the thousand dies,
 <br>Which deck{% include essay/feature/aside.html text="deck (v.) 'to clothe in a striking or elegant manner.' Think 'deck the halls'" %} thy progress through the vaulted
-skies:  
-<br>The mourn awakes, and wide extends her rays,  
-<br>On ev'ry leaf the gentle zephyr{% include essay/feature/aside.html text="Allusion to Zephyrus, the West Wind and its god." %} plays;  
-<br>Harmonious lays the feather'd race resume,  
+skies:
+<br>The mourn awakes, and wide extends her rays,
+<br>On ev'ry leaf the gentle zephyr{% include essay/feature/aside.html text="Allusion to Zephyrus, the West Wind and its god." %} plays;
+<br>Harmonious lays the feather'd race resume,
 <br>Dart the bright eye, and shake the painted plume.
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye shady groves, your verdant gloom display  
-<br>To shield your poet from the burning day:  
-<br>_Calliope_{% include essay/feature/aside.html text="Most important member of the nine Muses. Goddess of epic poetry." %} awake the sacred lyre{% include essay/feature/aside.html text="Allusion to Apollo." %},  
-<br>While thy fair sisters fan the pleasing fire:  
-<br>The bow'rs, the gales, the variegated skies  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ye shady groves, your verdant gloom display
+<br>To shield your poet from the burning day:
+<br>_Calliope_{% include essay/feature/aside.html text="Most important member of the nine Muses. Goddess of epic poetry." %} awake the sacred lyre{% include essay/feature/aside.html text="Allusion to Apollo." %},
+<br>While thy fair sisters fan the pleasing fire:
+<br>The bow'rs, the gales, the variegated skies
 <br>In all their pleasures in my bosom rise.
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See in the east th' illustrious king of day!{% include essay/feature/aside.html text="Allusion to Apollo, god of the Sun." %}  
-<br>His rising radiance drives the shades away-  
-<br>But Oh! I feel his fervid beams too strong,  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See in the east th' illustrious king of day!{% include essay/feature/aside.html text="Allusion to Apollo, god of the Sun." %}
+<br>His rising radiance drives the shades away-
+<br>But Oh! I feel his fervid beams too strong,
 <br>And scarce begun, concludes th' abortive song.
 
 {% include essay/feature/image-gallery.html
