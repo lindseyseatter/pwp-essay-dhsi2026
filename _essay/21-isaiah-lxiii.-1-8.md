@@ -17,36 +17,41 @@ byline: Cadence Davies
 Word count: 778
 
 ## ISAIAH LXIII. 1-8.
-SAY, heav’nly muse, what king or mighty God,
-  That moves sublime from Idumea’s road?
-  In Bosrah’s dies, with martial glories join’d,
-  His purple vesture waves upon the wind.
-  Why thus enrob’d delights he to appear
-  In the dread image of the Pow’r of war?
-    Compres’d in wrath the swelling wine-press groan’d,
-  It bled, and pour’d the gushing purple round.
-    “Mine was the act,” th’ Almighty Saviour said,
-  And shook the dazzling glories of his head,
-  “When all forsook I trod the press alone,
-  “And conquer’d by omnipotence my own;
-  “For man’s release sustain’d the pond’rous load,
-  “For man the wrath of an immortal God:
-  “To execute th’ Eternal’s dread command
-  “My soul I sacrific’d with willing hand;
-  “Sinless I stood before the avenging frown,
-  “Atoning thus for vices not my own.”
-     His eye the ample field of battle round
-  Survey’d, but no created succours found;
-  His own omnipotence sustain’d the right,
-  His vengeance sunk the haughty foes in night;
-  Beneath his feet the prostrate troops were spread,
-  And round him lay the dying, and the dead.
-    Great God, what light’ning flashes from thine eyes?
-  What pow’r withstands if thou indignant rise?
-    Against thy Zion though her foes may rage,
-  And all their cunning, all their strength engage,
-  Yet she serenely on thy bosom lies,
-  Smiles at their arts, and all their force defies.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SAY, heav’nly muse{% include essay/feature/aside.html text="Invoking the muse. A common opening to Wheatley Peters’s poems. Typically a neoclassical reference. However, in the context of the biblical passage the poem paraphrases (King James Version, Isa. 63.1-8), this invocation is more prophetic in tone." %}, what king or mighty God, 
+<br>That moves sublime from Idumea’s road? {% include essay/feature/aside.html text="‘Idumea’ is another name for the ancient and biblical kingdom of Edom, often depicted in the Old Testament as being in conflict with the kingdom of Israel. Edom is said to have been founded by Esau, the less-favoured twin brother of Jacob, progenitor of the twelve tribes of Isreal (“Edom,” Britannica)." %}
+<br>In Bosrah’s {% include essay/feature/aside.html text="A city in Edom (King James Vesion, Gen. 36.32–33)." %} dies,{% include essay/feature/aside.html text="Referring to "dyes," pigment." %} with martial glories join’d,
+<br>His purple vesture waves upon the wind.
+<br>Why thus enrob’d delights he to appear
+<br>In the dread image of the Pow’r of war?
+  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compres’d in wrath the swelling wine-press{% include essay/feature/aside.html text="Ancient wine production required labourers to crush wine grapes underfoot to release the juice. Wine, of course, has a biblical association with communion, and the crucifixion and atonement of Jesus Christ." %} groan’d,
+<br>It bled, and pour’d the gushing purple round.
+  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mine was the act,” th’ Almighty Saviour said,
+<br>And shook the dazzling glories of his head,
+<br>“When all forsook I trod the press alone,
+<br>“And conquer’d by omnipotence my own;
+<br>“For man’s release sustain’d the pond’rous load,
+<br>“For man the wrath of an immortal God:
+<br>“To execute th’ Eternal’s dread command
+<br>“My soul I sacrific’d with willing hand;
+<br>“Sinless I stood before the avenging frown,
+<br>“Atoning{% include essay/feature/aside.html text="Reference to the atonement of Jesus Christ, in which the son of God is believed to have taken upon the sins of the world so that followers may be redeemed and enter Heaven." %} thus for vices{% include essay/feature/aside.html text="“Vices” here might refer to the tie between the production of luxury goods and the Trans Atlantic slave trade." %} not my own.”
+    
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His eye the ample field of battle round
+<br>Survey’d, but no created succours found;
+<br>His own omnipotence sustain’d the right,
+<br>His vengeance sunk the haughty foes in night;
+<br>Beneath his feet the prostrate troops were spread,
+<br>And round him lay the dying, and the dead.
+  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Great God, what light’ning flashes from thine eyes?
+<br>What pow’r withstands if thou indignant rise?
+  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Against thy Zion{% include essay/feature/aside.html text="A hill mentioned in the _Old Testament,_ that is used figuratively in _The Bible_ and biblically influenced works. It is often characterized as a "heavenly city," and personified as a young woman (“Zion,” Britannica). A notable deviantion from the paraphrased verses in _Isaiah,_ which makes no mention of Zion." %} though her foes may rage,
+<br>And all their cunning, all their strength engage,
+<br>Yet she serenely on thy bosom lies,
+<br>Smiles at their arts, and all their force defies.
 
 {% include essay/feature/image-gallery.html
    objectid="pwp_59;pwp_60" %}
@@ -65,7 +70,6 @@ SAY, heav’nly muse, what king or mighty God,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The depiction of the “dread image of the Pow'r of war” in “Isaiah lxiii. 1-8” (Wheatley Peters line 6), a poem written to mimic a biblical prophecy of a battle preceding a utopia, would align with this belief that the success of the colonies in the Revolutionary War would bring with it emancipation. However, to say that Wheatley Peters took this outcome for granted would be inaccurate. Her political engagement and abolitionist advocacy only became more explicit and forthright after her emancipation, including a letter to Reverend Samson Occum, a “popular Mohegan minister” and advocate for both Indigenous and Black Americans, that “was published in the Connecticut Gazette and then widely circulated in New England newspapers,” in which she asserted the innate desire for freedom in all human beings (Erkkila 364-365). It is clear to see that Wheatley Peters was hopeful that the freedom she imagined in the last lines of "Isaiah lxiii. 1-8" would come to pass, and that her poetry was an integral part of her efforts to realize it, crafting in her art the image of a better world that gave her the momentum to advocate for it existence.
 
 Word count: 768
-
 
 ## Works Cited
 Britannica Editors. "Edom". _Encyclopedia Britannica,_ 25 Jun. 2026, https://www.britannica.com/place/Edom. 
