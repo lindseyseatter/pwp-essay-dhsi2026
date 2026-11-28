@@ -18,8 +18,8 @@ Word count: 778
 
 ## ISAIAH LXIII. 1-8.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SAY, heav’nly muse{% include essay/feature/aside.html text="Invoking the muse. A common opening to Wheatley Peters’s poems. Typically a neoclassical reference. However, in the context of the biblical passage the poem paraphrases (King James Version, Isa. 63.1-8), this invocation is more prophetic in tone." %}, what king or mighty God, 
-<br>That moves sublime from Idumea’s road? {% include essay/feature/aside.html text="‘Idumea’ is another name for the ancient and biblical kingdom of Edom, often depicted in the Old Testament as being in conflict with the kingdom of Israel. Edom is said to have been founded by Esau, the less-favoured twin brother of Jacob, progenitor of the twelve tribes of Isreal (“Edom,” Britannica)." %}
-<br>In Bosrah’s {% include essay/feature/aside.html text="A city in Edom (King James Vesion, Gen. 36.32–33)." %} dies,{% include essay/feature/aside.html text="Referring to "dyes," pigment." %} with martial glories join’d,
+<br>That moves sublime from Idumea’s road? {% include essay/feature/aside.html text="‘Idumea’ is another name for the ancient and biblical kingdom of Edom, often depicted in the Old Testament as being in conflict with the kingdom of Israel. Edom is said to have been founded by Esau, the less-favoured twin brother of Jacob, progenitor of the twelve tribes of Isreal ('Edom,' Britannica)." %}
+<br>In Bosrah’s {% include essay/feature/aside.html text="A city in Edom (King James Vesion, Gen. 36.32–33)." %} dies,{% include essay/feature/aside.html text="Referring to 'dyes,' pigment." %} with martial glories join’d,
 <br>His purple vesture waves upon the wind.
 <br>Why thus enrob’d delights he to appear
 <br>In the dread image of the Pow’r of war?
@@ -36,7 +36,7 @@ Word count: 778
 <br>“To execute th’ Eternal’s dread command
 <br>“My soul I sacrific’d with willing hand;
 <br>“Sinless I stood before the avenging frown,
-<br>“Atoning{% include essay/feature/aside.html text="Reference to the atonement of Jesus Christ, in which the son of God is believed to have taken upon the sins of the world so that followers may be redeemed and enter Heaven." %} thus for vices{% include essay/feature/aside.html text="“Vices” here might refer to the tie between the production of luxury goods and the Trans Atlantic slave trade." %} not my own.”
+<br>“Atoning{% include essay/feature/aside.html text="Reference to the atonement of Jesus Christ, in which the son of God is believed to have taken upon the sins of the world so that followers may be redeemed and enter Heaven." %} thus for vices{% include essay/feature/aside.html text="'Vices' here might refer to the tie between the production of luxury goods and the Trans Atlantic slave trade." %} not my own.”
     
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His eye the ample field of battle round
 <br>Survey’d, but no created succours found;
@@ -48,7 +48,7 @@ Word count: 778
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Great God, what light’ning flashes from thine eyes?
 <br>What pow’r withstands if thou indignant rise?
   
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Against thy Zion{% include essay/feature/aside.html text="A hill mentioned in the _Old Testament,_ that is used figuratively in _The Bible_ and biblically influenced works. It is often characterized as a "heavenly city," and personified as a young woman (“Zion,” Britannica). A notable deviantion from the paraphrased verses in _Isaiah,_ which makes no mention of Zion." %} though her foes may rage,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Against thy Zion{% include essay/feature/aside.html text="A hill mentioned in the _Old Testament,_ that is used figuratively in _The Bible_ and biblically influenced works. It is often characterized as a 'heavenly city,' and personified as a young woman ('Zion,' Britannica). A notable deviantion from the paraphrased verses in _Isaiah,_ which makes no mention of Zion." %} though her foes may rage,
 <br>And all their cunning, all their strength engage,
 <br>Yet she serenely on thy bosom lies,
 <br>Smiles at their arts, and all their force defies.
